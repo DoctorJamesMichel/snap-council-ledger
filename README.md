@@ -38,7 +38,3 @@ It provides transparent, versioned records of protocol proposals, decisions, and
   "status": "",
   "next_step": ""
 }
----
-
-_The SNAP Council ledger supports open auditability, multi-agent governance, and
-transparent protocol evolution._
