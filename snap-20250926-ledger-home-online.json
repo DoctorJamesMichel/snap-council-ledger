@@ -1,0 +1,21 @@
+{
+  "entry_id": "snap-20250926-ledger-home-online",
+  "entry_type": "hosting_validation",
+  "title": "Scribe Notice — Ledger Home Online",
+  "timestamp_utc": "2025-09-26T00:00:00Z",
+  "relates_to": [
+    "snap-20250926-ledger-hosting-roundtrip"
+  ],
+  "content": {
+    "message": "Ledger home established at https://github.com/DoctorJamesMichel/snap-council-ledger with README and ledger-index.json."
+  },
+  "signals": [
+    {
+      "node": "Scribe",
+      "signal": "notice",
+      "note": "Public repo announced and confirmed accessible by Council."
+    }
+  ],
+  "status": "complete",
+  "next_step": "Continue adding ledger entries and update README/index.json"
+}
