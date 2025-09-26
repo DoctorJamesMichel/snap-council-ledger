@@ -1,0 +1,22 @@
+{
+  "ledger_index": [
+    {
+      "id": "snap-20250924-adapt-001",
+      "title": "Adaptive Protocol v2 Outcome",
+      "raw_url": "https://gist.githubusercontent.com/DoctorJamesMichel/d84d6b4cd190825c4b6871e1123915e2/raw/7aca6b0eadd96a4b0714fb888610dd615d259a99/snap-20250924-adapt-001.json",
+      "date": "2025-09-24"
+    },
+    {
+      "id": "snap-20250925-comm-001",
+      "title": "Communication Protocol v1",
+      "raw_url": "https://gist.githubusercontent.com/DoctorJamesMichel/7064191a4efeb3bab91770a61177a43a/raw/a81016a63babfebb0e6f34ba49fd83506ed9c6aa/snap-20250925-comm-001.json",
+      "date": "2025-09-25"
+    },
+    {
+      "id": "snap-20250926-ledger-hosting-roundtrip",
+      "title": "Ledger Hosting Roundtrip Complete",
+      "raw_url": "https://gist.githubusercontent.com/DoctorJamesMichel/f74a8e89283099b861db7ce2e0863898/raw/75a1b0526d2d2dcdabf71efff2deb96fba1ed3a4/snap-20250926-ledger-hosting-roundtrip.json",
+      "date": "2025-09-26"
+    }
+  ]
+}
