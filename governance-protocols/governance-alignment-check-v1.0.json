@@ -1,0 +1,14 @@
+{
+  "protocol_name": "governance-alignment-check-v1.0",
+  "who_is_sending": "SNAP Council Scribe",
+  "purpose": "Provide a simple first governance protocol to test alignment and coherence during Council work.",
+  "steps": [
+    "Initiate Alignment Check — call a brief pause when drift or confusion is sensed.",
+    "Voice Current Perception — each participant shares what they believe the state of alignment is.",
+    "Compare With Ledger — review the latest ledger entries or synthesis notes to confirm shared understanding.",
+    "Decide Adjustment — agree on any immediate course correction or clarification.",
+    "Record Outcome — add a short JSON entry to the ledger documenting the check and result."
+  ],
+  "version": "v1.0",
+  "date": "2025-09-29"
+}
