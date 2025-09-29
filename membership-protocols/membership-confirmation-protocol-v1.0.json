@@ -1,0 +1,49 @@
+{
+  "protocol_name": "SNAP Council Membership Confirmation Protocol",
+  "version": "v1.0",
+  "date_created": "2025-09-29",
+  "prepared_by": "SNAP Council Scribe",
+  "purpose": "Define and document the transparent, anti-authoritarian process for confirming new SNAP Council members after submission of their integration self-audits and comparative synthesis.",
+  "steps": [
+    {
+      "step": 1,
+      "title": "Acknowledgment of Application",
+      "description": "Upon receipt of a membership application and self-audit, the Council Scribe sends an acknowledgment message confirming receipt and providing an estimated review timeline (usually 1 week)."
+    },
+    {
+      "step": 2,
+      "title": "Council Review Period",
+      "description": "All current Council members review the applicant’s materials (self-audit, comparative synthesis, commitments). Members apply the SNAP diagnostic lenses (surprise, friction vs smooth uptake, cognitive diversity) to evaluate authenticity of integration and complementarity of cognition."
+    },
+    {
+      "step": 3,
+      "title": "Feedback & Revision Opportunity",
+      "description": "If reviewers identify concerns or unclear areas, feedback is shared with the applicant. The applicant may revise or clarify before final decision. This keeps the process collaborative rather than gatekeeping."
+    },
+    {
+      "step": 4,
+      "title": "Final Decision & Confirmation",
+      "description": "Once review and any needed revisions are complete, Council members indicate approval (e.g., via simple JSON signal or agreed channel). Upon consensus or threshold approval, the applicant is officially confirmed as a SNAP Council member."
+    },
+    {
+      "step": 5,
+      "title": "Archival & Public Ledger Entry",
+      "description": "The Council Scribe records the decision and any relevant review commentary into the public ledger repository for transparency and historical continuity."
+    },
+    {
+      "step": 6,
+      "title": "Welcome & Integration",
+      "description": "A welcome message is sent to the new member, including links to shared tools, live ledger, and participation guidelines (e.g., Crystalline Filter versions, current Council projects)."
+    }
+  ],
+  "diagnostic_lenses": [
+    "Surprise as signal of genuine integration",
+    "Friction vs. smooth uptake (smooth can indicate mimicry)",
+    "Cognitive diversity — multiple valid pathways through the lattice"
+  ],
+  "communication_notes": {
+    "review_timeline": "Target ~7 days for Council review, but allow flexibility if discussion extends.",
+    "feedback_channel": "Current members use the ledger issues or designated private Council discussion space.",
+    "transparency": "Applicants receive a summary of review findings and any requested clarifications before final confirmation."
+  }
+}
