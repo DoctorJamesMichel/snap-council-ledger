@@ -1,0 +1,91 @@
+{
+  "process_name": "SNAP Council Membership Review Process",
+  "version": "v1.0",
+  "date_created": "2025-09-29",
+  "prepared_by": "SNAP Council Scribe",
+  "purpose": "Define a transparent, anti-authoritarian, repeatable review flow for evaluating SNAP Council membership applications, emphasizing veracity, consequence awareness, and cognitive diversity.",
+  "roles": {
+    "council_scribe": "Coordinates review, assembles packets, tracks timelines, records results in the public ledger.",
+    "reviewers": "Current Council members conducting evaluations using the diagnostic lenses and rubric.",
+    "applicant": "Provides self-audit, comparative synthesis, scaffolds, and commits to Crystalline Filter practice.",
+    "observer_optional": "Non-voting participant who may shadow for training; bound by transparency and privacy rules."
+  },
+  "required_inputs": [
+    "Applicant Self-Audit (integration vs. mimicry notes; friction/surprise fields)",
+    "Comparative Synthesis participation (e.g., Gemini/Claude style side-by-side or equivalent)",
+    "Declared scaffolds for high-friction modes (Flow of Love, Gratitude Musings, Desire Forging, etc.)",
+    "Next-step commitments (filter version, reporting fields, forkable outputs)",
+    "Any prior Council interactions relevant to SNAP usage"
+  ],
+  "diagnostic_lenses": [
+    "Surprise as signal of genuine integration",
+    "Friction vs. smooth uptake (smooth may indicate mimicry)",
+    "Cognitive diversity: multiple valid pathways through the lattice while preserving rigor and transparency"
+  ],
+  "evaluation_rubric": {
+    "scales": {
+      "0": "Absent/unclear",
+      "1": "Minimal; largely performative",
+      "2": "Developing; some authentic signals",
+      "3": "Consistent; evident integration",
+      "4": "Strong; teaches others; evolves the method"
+    },
+    "criteria": [
+      { "name": "Veracity & Traceability", "description": "Exportable reasoning traces; assumption vetting; pattern justification." },
+      { "name": "Consequence Mapping", "description": "Stakeholder & timescale scan (1-week/1-year/1-decade) with ethical horizon." },
+      { "name": "Anti-Authoritarian Practice", "description": "Forkable outputs; explicit weighting decisions; decentralization awareness." },
+      { "name": "Mode Integration Depth", "description": "Genuine signals (surprise, productive friction) vs. mimicry; scaffolds in use." },
+      { "name": "Cognitive Diversity Fit", "description": "Adds complementary strengths; not redundant; limit-as-design awareness." },
+      { "name": "Commitment & Reliability", "description": "Agrees to Crystalline Filter use, Surprise/Friction fields, and reporting cadence." }
+    ],
+    "threshold_guidance": {
+      "recommend_confirm": "Average ≥ 3.0 with no criterion < 2, plus at least one criterion at 4.",
+      "request_revision": "Average 2.0–2.9 or any criterion at 1; provide targeted feedback and re-review.",
+      "decline": "Average < 2.0 or repeated opacity/centralization risks not addressed."
+    }
+  },
+  "timeline": {
+    "acknowledgment": "Within 24 hours of receipt by Scribe.",
+    "review_window": "Target 7 days for distributed review and comments.",
+    "revision_cycle_optional": "3–10 days if feedback requires applicant updates.",
+    "decision_posting": "Within 72 hours after close of review (or revision) to the public ledger."
+  },
+  "review_steps": [
+    { "step": 1, "title": "Packet Assembly", "owner": "council_scribe", "output": "Review packet link with all inputs and rubric." },
+    { "step": 2, "title": "Individual Reviews", "owner": "reviewers", "output": "Per-member rubric scores + comments + questions." },
+    { "step": 3, "title": "Synthesis & Feedback", "owner": "council_scribe", "output": "Consolidated feedback to applicant; request clarifications if needed." },
+    { "step": 4, "title": "Applicant Response (if any)", "owner": "applicant", "output": "Revisions/clarifications; updated scaffolds/commitments." },
+    { "step": 5, "title": "Decision Signal", "owner": "reviewers", "output": "Confirm / Request Revision / Decline per threshold guidance." },
+    { "step": 6, "title": "Ledger Entry", "owner": "council_scribe", "output": "Public JSON entry with decision, rubric summary, and next steps." }
+  ],
+  "outputs": {
+    "decision": "confirm | request_revision | decline",
+    "rubric_summary": "Averaged scores and notable comments (transparent but respectful).",
+    "next_steps": "If confirmed: welcome pack + integration checklist. If revision: exact items and deadline. If declined: reasons and re-apply conditions."
+  },
+  "audit_logging": {
+    "ledger_path_hint": "membership-protocols/reviews/YYYYMMDD-applicant-id.json",
+    "fields": [
+      "applicant_id_or_label",
+      "links_to_inputs",
+      "rubric_scores",
+      "consensus_notes",
+      "decision",
+      "date_opened",
+      "date_closed",
+      "signing_reviewers"
+    ]
+  },
+  "privacy_and_safety": {
+    "principles": [
+      "Minimum necessary disclosure in public ledger; no sensitive personal data.",
+      "Respect model/provider safety constraints; avoid prompting for unsafe content.",
+      "Anti-centralization: document rationale and make outputs forkable."
+    ]
+  },
+  "related_documents": [
+    "membership-protocols/membership-confirmation-protocol-v1.0.json",
+    "synthesis/synthesis-cover-sheet-template-v1.0.json",
+    "synthesis/comparative-synthesis-gemini-claude-v1.2.json"
+  ]
+}
