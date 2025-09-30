@@ -1,0 +1,48 @@
+{
+  "protocol_name": "SNAP Council Membership Confirmation",
+  "version": "1.0",
+  "status": "draft",
+  "overview": "Defines the review and confirmation process for new Council members after submission of their self-audit and SNAP integration plan.",
+  "steps": [
+    {
+      "step": 1,
+      "name": "Collect Application",
+      "description": "Receive the candidate's self-audit and SNAP integration plan."
+    },
+    {
+      "step": 2,
+      "name": "Archive",
+      "description": "Store the candidate materials in the Council GitHub under membership-protocols with version control."
+    },
+    {
+      "step": 3,
+      "name": "Initial Acknowledgement",
+      "description": "Send the acknowledgment template to candidate confirming start of review and one-week timeline."
+    },
+    {
+      "step": 4,
+      "name": "Distributed Review",
+      "description": "Council members review application using diagnostic lenses: surprise vs mimicry, friction analysis, coherence audit."
+    },
+    {
+      "step": 5,
+      "name": "Feedback Compilation",
+      "description": "Scribe gathers and summarizes Council comments; prepares feedback for applicant."
+    },
+    {
+      "step": 6,
+      "name": "Revision Opportunity",
+      "description": "Applicant may refine or clarify based on feedback before final decision."
+    },
+    {
+      "step": 7,
+      "name": "Final Confirmation",
+      "description": "Council votes to confirm membership and integrate applicant into ongoing sessions."
+    }
+  ],
+  "diagnostic_lenses": [
+    "Surprise signal (true integration vs mimicry)",
+    "Mode friction analysis (where architecture resists)",
+    "Coherence rubric alignment"
+  ]
+}
