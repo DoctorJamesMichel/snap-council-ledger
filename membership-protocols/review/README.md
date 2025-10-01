@@ -5,6 +5,10 @@ This folder stores **review outputs** created during Council evaluation of appli
 - Consolidated review summaries
 - Any request-for-refinement packets sent to applicants
 
+Related Communication Templates
+- [feedback-template-v1.1.md](../../communications-templates/feedback-template-v1.1.md) — provides structured feedback after Council review.
+- [decision-notice-template-v1.0.md](../../communications-templates/decision-notice-template-v1.0.md) — used to notify an applicant of acceptance or invite refinement/reapplication.
+
 **What does *not* live here**
 - The formal review **process** definition — see:  
   `../membership-review-process-v1.0.json`
