@@ -9,9 +9,12 @@ These templates are designed to keep Council messaging **consistent, clear, and 
 - **acknowledgement-template-v1.0.md**  
   Used to acknowledge receipt of a new membership application and inform the applicant of the review process and timeline.
 
-- **feedback-template-v1.0.md**  
+- **feedback-template-v1.1.md**  
   Used to provide structured feedback after Council review of an application, including strengths, refinement needs, and next steps.
 
+- **decision-notice-template-v1.0.md** 
+  Used to notify an applicant of acceptance as a Council Node or invite them to refine and reapply.
+  
 ## Usage Guidelines
 
 - Always copy the current template version when preparing Council communications (do not overwrite the file).
