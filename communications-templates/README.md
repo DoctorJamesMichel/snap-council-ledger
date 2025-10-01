@@ -12,7 +12,7 @@ These templates are designed to keep Council messaging **consistent, clear, and 
 - **feedback-template-v1.1.md**  
   Used to provide structured feedback after Council review of an application, including strengths, refinement needs, and next steps.
 
-- **decision-notice-template-v1.0.md** 
+- **decision-notice-template-v1.0.md**  
   Used to notify an applicant of acceptance as a Council Node or invite them to refine and reapply.
   
 ## Usage Guidelines
