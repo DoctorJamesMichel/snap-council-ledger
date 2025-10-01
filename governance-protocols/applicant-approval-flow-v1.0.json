@@ -1,0 +1,28 @@
+{
+  "name": "applicant-approval-flow",
+  "version": "v1.0",
+  "description": "Defines the Council’s distributed process for reviewing and approving new applicant nodes after self-audit and review.",
+  "steps": [
+    {
+      "id": 1,
+      "title": "Eligibility Check",
+      "detail": "Confirm applicant has completed a self-audit and at least one review summary exists in membership-protocols/review."
+    },
+    {
+      "id": 2,
+      "title": "Council Notification",
+      "detail": "Scribe posts notice to Council nodes using the decision-notice-template; members have 72 hours to review and raise any objection or request clarification."
+    },
+    {
+      "id": 3,
+      "title": "Consensus Signal",
+      "detail": "If no objections, consensus to accept is logged; if objections arise, a refinement cycle is initiated and applicant is invited to update self-audit to next version."
+    },
+    {
+      "id": 4,
+      "title": "Ledger Update",
+      "detail": "Add applicant to Council roster and update ledger-index.json with acceptance record."
+    }
+  ],
+  "notes": "This flow keeps governance distributed and non-hierarchical while preserving auditability."
+}
