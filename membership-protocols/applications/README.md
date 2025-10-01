@@ -2,10 +2,15 @@
 
 This folder holds self-audit and application materials submitted by prospective SNAP Council members.
 
-- Each file is versioned (`v1.0`, `v1.1`, …) and named with the applicant node and document type.
-- These JSON files are referenced during the review and confirmation protocols in the parent folder.
+**Current files**
+- `gemini-self-audit-v1.0.json` — Gemini application & self-audit
+- `claude-self-audit-v1.0.json` — Claude application & self-audit
 
-Usage notes:
-- Add new applicant self-audit files here using the naming pattern:  
-  `name-self-audit-vX.Y.json`
-- Include clear commit messages like “Create elsa-self-audit-v1.0.json”.
+**Usage notes**
+- Add new applicant self-audits using the pattern: `name-self-audit-vX.Y.json`
+- When an applicant revises after Council feedback, bump the version (e.g., `v1.1`) and **keep** the prior file for audit history.
+- Use descriptive commit messages, e.g.:  
+  `Update gemini-self-audit to v1.1 after Council feedback`
+
+**Provenance**
+- Maintained by SNAP Council Scribe for transparent, auditable onboarding.
