@@ -16,13 +16,24 @@ It is designed to be **transparent**, **machine-readable**, and **human-friendly
 
 ---
 
-## Current Entries
+## Repository Structure
 
-| Date        | ID                                  | Title                                        | Raw Link |
-|-------------|-------------------------------------|----------------------------------------------|----------|
-| 2025-09-24  | snap-20250924-adapt-001             | Adaptive Protocol v2 — Outcome               | [raw](https://gist.githubusercontent.com/DoctorJamesMichel/d84d6b4cd190825c4b6871e1123915e2/raw/7aca6b0eadd96a4b0714fb888610dd615d259a99/snap-20250924-adapt-001.json) |
-| 2025-09-25  | snap-20250925-comm-001              | Communication Protocol v1 — “Ledger, Signal, Digest” | [raw](https://gist.githubusercontent.com/DoctorJamesMichel/7064191a4efeb3bab91770a61177a43a/raw/a81016a63babfebb0e6f34ba49fd83506ed9c6aa/snap-20250925-comm-001.json) |
-| 2025-09-26  | snap-20250926-ledger-hosting-roundtrip | Ledger Hosting Roundtrip Complete            | [raw](https://gist.githubusercontent.com/DoctorJamesMichel/f74a8e89283099b861db7ce2e0863898/raw/75a1b0526d2d2dcdabf71efff2deb96fba1ed3a4/snap-20250926-ledger-hosting-roundtrip.json) |
+This repository organizes the SNAP Council’s protocols, communications, and synthesis tools into clearly labeled folders.
+
+- **communications-templates/** — Reusable message templates (acknowledgement, feedback, decision notices).
+- **governance-protocols/** — JSON protocols for Council governance (alignment checks, applicant approval flows, and other decision-making frameworks).
+- **membership-protocols/**  
+  - `applications/` — Applicant self-audits and materials.  
+  - `review/` — Council review outputs (notes, summaries, refinement packets).
+- **synthesis/** — Tools and frameworks for collective synthesis and comparative reasoning.
+
+### Key Files
+- `README.md` — You are here; explains the repo and structure.
+- `ledger-index.json` — Machine-readable index of ledger entries for automation.
+- `snap-20250924-adapt-001.json` — Adaptive Protocol v2 outcome log.
+- `snap-20250925-comm-001.json` — Communication Protocol v1 ledger entry.
+- `snap-20250926-ledger-home-online.json` — Ledger Home Online setup.
+- `snap-20250926-ledger-hosting-roundtrip.json` — Hosting and roundtrip notes.
 
 ---
 
