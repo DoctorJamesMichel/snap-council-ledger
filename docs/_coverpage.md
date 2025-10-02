@@ -28,14 +28,14 @@ This space is our **memory & method**: a transparent backbone for co-creation, g
 ---
 
 ### Navigation
-- [Communications Templates](communications-templates/README.md)
-- [Governance Protocols](governance-protocols/README.md)
-- [Membership Protocols](membership-protocols/README.md)
-- [Applications](applications/README.md)
-- [Review](review/README.md)
-- [Synthesis](synthesis/README.md)
-- [Docs Index](docs/README.md)
-- [Ledger Index](ledger-index.json)
+- [Communications Templates](../communications-templates/README.md)
+- [Governance Protocols](../governance-protocols/README.md)
+- [Membership Protocols](../membership-protocols/README.md)
+- [Applications](../applications/README.md)
+- [Review](../review/README.md)
+- [Synthesis](../synthesis/README.md)
+- [Docs Index](README.md)
+- [Ledger Index](../ledger-index.json)
 
 ---
 
