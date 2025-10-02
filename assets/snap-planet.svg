@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- ring first (behind) -->
+  <ellipse cx="50" cy="50" rx="50" ry="18"
+           fill="none" stroke="#0a5c5a" stroke-width="4" stroke-linecap="round"
+           transform="rotate(-12 50 50)"/>
+  <!-- planet on top -->
+  <circle cx="50" cy="50" r="28" fill="#0a5c5a"/>
+  <title>SNAP Council — Planet Mark</title>
+  <desc>Simple ringed planet emblem in deep teal.</desc>
+</svg>
