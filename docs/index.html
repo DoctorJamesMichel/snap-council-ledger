@@ -1,20 +1,26 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>SNAP Council Ledger Docs</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <title>SNAP Council Ledger</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <!-- Docsify -->
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css" />
 </head>
 <body>
-  <div id="app">Loading SNAP Council Ledger docs...</div>
+  <div id="app">Loading SNAP Council Ledger…</div>
+
   <script>
     window.$docsify = {
       name: 'SNAP Council Ledger',
-      repo: 'DoctorJamesMichel/snap-council-ledger'
+      repo: 'DoctorJamesMichel/snap-council-ledger',  // optional GitHub link
+      coverpage: true,       // enable _coverpage.md
+      loadSidebar: true,     // enable _sidebar.md
+      themeColor: '#0a5c5a', // deep teal
+      logo: '../assets/snap-planet.svg'
     }
   </script>
+
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
 </body>
 </html>
