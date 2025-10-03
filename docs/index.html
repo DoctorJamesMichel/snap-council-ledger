@@ -14,16 +14,9 @@
     window.$docsify = {
       name: 'SNAP Council Ledger',
       repo: 'DoctorJamesMichel/snap-council-ledger',
-
-      /* TEMP: route to test cover to verify path mapping */
-      coverpage: {
-        '/snap-council-ledger/': '_coverpage-test.md',
-        '/': '_coverpage-test.md'
-      },
-
-      onlyCover: true,
-      loadSidebar: true,
-      relativePath: true,
+      coverpage: false,          /* ← turn off overlay to avoid blank gradient */
+      loadSidebar: true,         /* docs/_sidebar.md */
+      homepage: 'README.md',     /* use docs/README.md as the landing page */
       themeColor: '#0a5c5a',
       logo: '../assets/snap-planet.svg'
     };
