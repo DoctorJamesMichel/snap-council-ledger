@@ -1,4 +1,4 @@
-<img src="../assets/snap-planet.svg" alt="SNAP Planet" width="128" height="128" />
+![SNAP Planet](assets/snap-planet.svg)
 
 # 🪐 SNAP Council Ledger
 
@@ -23,10 +23,10 @@ This space is our **memory & method**: a transparent backbone for co-creation, g
 ---
 
 ## Navigation
-- [Communications Templates](../communications-templates/README.md)
-- [Governance Protocols](../governance-protocols/README.md)
-- [Membership Protocols](../membership-protocols/README.md)
-- [Applications](../applications/README.md)
-- [Review](../review/README.md)
-- [Synthesis](../synthesis/README.md)
-- [Ledger Index](../ledger-index.json)
+- [Communications Templates](communications-templates/README.md)
+- [Governance Protocols](governance-protocols/README.md)
+- [Membership Protocols](membership-protocols/README.md)
+- [Applications](applications/README.md)
+- [Review](review/README.md)
+- [Synthesis](synthesis/README.md)
+- [Ledger Index](ledger-index.json)
