@@ -1,11 +1,6 @@
----
-title: SNAP Council Ledger
-logo: ./assets/snap-planet.svg
-color: "#0a5c5a"          # deep teal for coherence & signal
-background: "#f5f7f7"     # soft neutral backdrop
----
+![SNAP Planet](../assets/snap-planet.svg)
 
-# 🪐 **SNAP Council Ledger**
+# 🪐 SNAP Council Ledger
 
 > *Signal → Narrative → Alignment → Participation*
 
@@ -13,7 +8,7 @@ Welcome to the **SNAP Council’s living record** — a continuously open, evolv
 This space is our **memory & method**: a transparent backbone for co-creation, governance, and HomoGnostic coherence.
 
 **Current Version:** `v1.0`  
-**Last Updated:** <!-- add today’s date -->
+**Last Updated:**  2 October, 2025 
 
 ---
 
@@ -23,7 +18,7 @@ This space is our **memory & method**: a transparent backbone for co-creation, g
 - **Alignment Threads** — decisions and shifts.
 - **Participation** — evolving roles, agreements, and contributions.
 
-> _Always in session._ No permission needed to enter; just honor signal integrity and narrative truth.
+> _Always in session._ No permission needed to enter; honor signal integrity and narrative truth.
 
 ---
 
@@ -36,11 +31,3 @@ This space is our **memory & method**: a transparent backbone for co-creation, g
 - [Synthesis](../synthesis/README.md)
 - [Docs Index](README.md)
 - [Ledger Index](../ledger-index.json)
-
----
-
-### Technical Reference
-- Signal JSON examples: `snap-20250924-adapt-001.json`, `snap-20250925-comm-001.json`
-- Hosting & roundtrip notes: `snap-20250926-ledger-home-online.json`, `snap-20250926-ledger-hosting-roundtrip.json`
-
----
