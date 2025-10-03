@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <title>SNAP Council Ledger</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <!-- Docsify -->
+  <!-- Docsify theme -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css" />
 </head>
 <body>
@@ -13,14 +13,17 @@
   <script>
     window.$docsify = {
       name: 'SNAP Council Ledger',
-      repo: 'DoctorJamesMichel/snap-council-ledger',  // optional GitHub link
-      coverpage: true,       // enable _coverpage.md
-      loadSidebar: true,     // enable _sidebar.md
-      themeColor: '#0a5c5a', // deep teal
+      repo: 'DoctorJamesMichel/snap-council-ledger',
+      coverpage: true,            // use docs/_coverpage.md
+      homepage: '_coverpage.md',  // land directly on the cover
+      onlyCover: true,            // show ONLY the cover on first load
+      loadSidebar: true,          // use docs/_sidebar.md
+      themeColor: '#0a5c5a',
       logo: '../assets/snap-planet.svg'
-    }
+    };
   </script>
 
+  <!-- Docsify core -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
 </body>
 </html>
