@@ -14,11 +14,14 @@
     window.$docsify = {
       name: 'SNAP Council Ledger',
       repo: 'DoctorJamesMichel/snap-council-ledger',
-      coverpage: true,        // uses docs/_coverpage.md as an overlay
-      onlyCover: true,        // show only the cover on first load
-      loadSidebar: true,      // docs/_sidebar.md
+      // Force Docsify to load THIS cover file from THIS folder
+      coverpage: './_coverpage.md',
+      onlyCover: true,
+      loadSidebar: true,
       themeColor: '#0a5c5a',
-      logo: '../assets/snap-planet.svg'
+      logo: '../assets/snap-planet.svg',
+      // Make all Markdown requests relative to docs/ explicitly
+      basePath: './'
     };
   </script>
 
