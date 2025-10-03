@@ -14,14 +14,19 @@
     window.$docsify = {
       name: 'SNAP Council Ledger',
       repo: 'DoctorJamesMichel/snap-council-ledger',
-      // Force Docsify to load THIS cover file from THIS folder
-      coverpage: './_coverpage.md',
+
+      /* Map the project route to your cover file explicitly.
+         This is important for GitHub Pages project sites. */
+      coverpage: {
+        '/snap-council-ledger/': '_coverpage.md',  // project path
+        '/': '_coverpage.md'                       // safety fallback
+      },
+
       onlyCover: true,
       loadSidebar: true,
+      relativePath: true,           // make links resolve relative to docs/
       themeColor: '#0a5c5a',
-      logo: '../assets/snap-planet.svg',
-      // Make all Markdown requests relative to docs/ explicitly
-      basePath: './'
+      logo: '../assets/snap-planet.svg'
     };
   </script>
 
