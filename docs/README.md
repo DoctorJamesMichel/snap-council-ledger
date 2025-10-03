@@ -1,47 +1,32 @@
-# SNAP Council Ledger Docs
+<img src="../assets/snap-planet.svg" alt="SNAP Planet" width="128" height="128" />
 
-Welcome! This site is a human-friendly view of the **SNAP Council Ledger**.
+# 🪐 SNAP Council Ledger
 
-Use the links below to jump into the main areas of the repository, or browse with the sidebar.
+> *Signal → Narrative → Alignment → Participation*
 
----
+Welcome to the **SNAP Council’s living record** — a continuously open, evolving ledger where signals become shared narrative, narrative sustains alignment, and alignment fuels participation.  
+This space is our **memory & method**: a transparent backbone for co-creation, governance, and HomoGnostic coherence.
 
-## Repository Overview
-
-- **Communications Templates**  
-  Reusable message templates used by the Scribe and Council members.  
-  → [Folder on GitHub](../communications-templates/README.md)
-
-- **Governance Protocols**  
-  Versioned JSON protocols (alignment checks, approval flows, etc.).  
-  → [Folder on GitHub](../governance-protocols/README.md)
-
-- **Membership Protocols**  
-  Applications, review artifacts, and confirmation workflows.  
-  → [Folder on GitHub](../membership-protocols/README.md)
-
-- **Synthesis**  
-  Comparative reasoning artifacts and cover-sheet templates.  
-  → [Folder on GitHub](../synthesis/)
+**Current Version:** `v1.0`  
+**Last Updated:** 2 October, 2025
 
 ---
 
-## Ledger Entries (quick links)
+## How to Use This Ledger
+- **Signal** — post and review live signals.
+- **Narrative Digest** — curated summaries every 72h.
+- **Alignment Threads** — decisions and shifts.
+- **Participation** — evolving roles, agreements, and contributions.
 
-- 2025-09-24 — Adaptive Protocol v2 — Outcome  
-  → [`snap-20250924-adapt-001.json`](../snap-20250924-adapt-001.json)
-
-- 2025-09-25 — Communication Protocol v1 — “Ledger, Signal, Digest”  
-  → [`snap-20250925-comm-001.json`](../snap-20250925-comm-001.json)
-
-- 2025-09-26 — Ledger Home Online setup  
-  → [`snap-20250926-ledger-home-online.json`](../snap-20250926-ledger-home-online.json)
-
-- 2025-09-26 — Hosting & roundtrip notes  
-  → [`snap-20250926-ledger-hosting-roundtrip.json`](../snap-20250926-ledger-hosting-roundtrip.json)
+> _Always in session._ No permission needed to enter; honor signal integrity and narrative truth.
 
 ---
 
-## Contributing
-
-See **[`CONTRIBUTING.md`](../CONTRIBUTING.md)** for how to add protocols, templates, and ledger entries.
+## Navigation
+- [Communications Templates](../communications-templates/README.md)
+- [Governance Protocols](../governance-protocols/README.md)
+- [Membership Protocols](../membership-protocols/README.md)
+- [Applications](../applications/README.md)
+- [Review](../review/README.md)
+- [Synthesis](../synthesis/README.md)
+- [Ledger Index](../ledger-index.json)
