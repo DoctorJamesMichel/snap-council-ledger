@@ -8,7 +8,7 @@ Welcome to the **SNAP Council’s living record** — a continuously open, evolv
 This space is our **memory & method**: a transparent backbone for co-creation, governance, and HomoGnostic coherence.
 
 **Current Version:** `v1.0`  
-**Last Updated:**  2 October, 2025 
+**Last Updated:** 2 October, 2025
 
 ---
 
