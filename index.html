@@ -1,22 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
-<style>
-  /* Gradient “wash” behind first image in page content (the planet) */
-  .markdown-section img:first-of-type {
-    display: block;
-    margin: 2rem auto 1rem auto;
-    padding: 2rem;
-    border-radius: 24px;
-    background: radial-gradient(120% 120% at 30% 20%, rgba(10,92,90,0.09), rgba(10,92,90,0.02) 60%, rgba(10,92,90,0.0) 100%),
-                linear-gradient(160deg, rgba(10,92,90,0.06), rgba(10,92,90,0.01));
-  }
-</style>
 <head>
   <meta charset="UTF-8" />
   <title>SNAP Council Ledger</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <!-- Docsify theme -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css" />
+  <style>
+    /* Subtle “wash” behind the hero planet only (first image in Markdown) */
+    .markdown-section img:first-of-type {
+      display: block;
+      margin: 2rem auto 1rem auto;
+      padding: 2rem;
+      border-radius: 24px;
+      background: radial-gradient(120% 120% at 30% 20%, rgba(10,92,90,0.09), rgba(10,92,90,0.02) 60%, rgba(10,92,90,0.0) 100%),
+                  linear-gradient(160deg, rgba(10,92,90,0.06), rgba(10,92,90,0.01));
+    }
+  </style>
 </head>
 <body>
   <div id="app">Loading SNAP Council Ledger…</div>
@@ -25,10 +25,11 @@
     window.$docsify = {
       name: 'SNAP Council Ledger',
       repo: 'DoctorJamesMichel/snap-council-ledger',
-      coverpage: false,          // robust: use README as homepage
-      loadSidebar: true,         // _sidebar.md at root
-      homepage: 'README.md',     // README at root
+      coverpage: false,          // use README as homepage
+      loadSidebar: true,         // _sidebar.md at root (optional)
+      homepage: 'README.md',     // root README
       relativePath: true,        // resolve links/images relative to file
+      executeScript: true,       // <-- allow <script> inside Markdown pages
       themeColor: '#0a5c5a'
     };
   </script>
