@@ -29,4 +29,5 @@ This space is our **memory & method**: a transparent backbone for co-creation, g
 - [Applications](membership-protocols/applications/README.md)
 - [Review](membership-protocols/review/README.md)
 - [Synthesis](synthesis/README.md)
-- [Ledger Index](https://doctorjamesmichel.github.io/snap-council-ledger/ledger-index.json)
+- [Ledger Index (Human View)](ledger-index.md)
+- [Ledger Index (JSON)](https://doctorjamesmichel.github.io/snap-council-ledger/ledger-index.json)
