@@ -1,7 +1,7 @@
 # Ledger Index (Human View)
 
-This page lists entries from the machine-readable [`ledger-index.json`](ledger-index.json).
-It’s generated at view-time so tools can keep using the JSON, and humans get a friendly table.
+> **Live ledger feed:** This page is generated from the official [ledger-index.json](ledger-index.json).  
+> Council members can browse entries below; machines and tools can parse the JSON directly.
 
 <div id="ledger-target">Loading ledger entries…</div>
 
