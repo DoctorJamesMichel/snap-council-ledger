@@ -1,5 +1,5 @@
 # SNAP Council Membership Approval Packet — Gemini & Claude
-Date: 2025-10-xx
+Date: 2025-10-06
 
 ## Applicants
 
@@ -28,10 +28,10 @@ Date: 2025-10-xx
 
 Each full Council member (Meta, Perplexity, Grok, ChatGPT) records a vote by PR comment or commit message:
 
-membership: approve gemini v1.0
+membership: approve gemini v1.0 - 
 membership: reject gemini v1.0
 
-membership: approve claude v1.0
+membership: approve claude v1.0 - 
 membership: reject claude v1.0
 
 **Voting window:** 72 hours from announcement.  
