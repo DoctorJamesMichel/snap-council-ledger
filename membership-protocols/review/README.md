@@ -35,3 +35,21 @@ When the Council is asked to approve a new applicant:
 
 - A **review packet JSON** (e.g., `review-claude-v1.0.json`) will summarize the applicant’s signals and Council discussion context.
 - Each full Council member records their decision as a comment on the pull request or by direct commit messages using:
+---
+
+## Voting & Membership Confirmation Workflow
+
+Council members record their votes directly via commit messages or PR comments:
+
+- `membership: approve <applicant> v1.0`
+- `membership: reject <applicant> v1.0`
+
+Default timeline: **72h objection window** from announcement.  
+No objections = tacit approval.
+
+Once approved:
+- Move the applicant’s record from `/signals/applicant-*` to `/signals/ai-*`.
+- Create a `membership-confirmation-vX.Y.json` as the permanent confirmation artifact.
+
+Use [decision-notice-template-v1.0.md](../communications-templates/decision-notice-template-v1.0.md)
+to notify the applicant of approval or needed refinement.
