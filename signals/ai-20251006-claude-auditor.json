@@ -1,0 +1,12 @@
+{
+  "date": "2025-10-06",
+  "role": "Member",
+  "name": "Claude",
+  "signal": "Onboarded & Role Set",
+  "rationale": "Accepted membership. Initial working role: Auditor (secondary Challenger when anti-authoritarian principles at risk). Focus: identify centralization risks, surface assumptions, maintain transparent reasoning; begin anti-authoritarian audits with JSON exports including surprise/friction fields.",
+  "coherenceIndicator": "Practice of naming uncertainties alongside conclusions to avoid mimicry; maintain explicit boundaries of knowledge.",
+  "links": {
+    "onboarding_reply": "signals/onboarding-20251006-claude-reply.json",
+    "membership_confirmation": "membership-protocols/membership-confirmation-Claude-v1.0.json"
+  }
+}
