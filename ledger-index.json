@@ -23,6 +23,12 @@
       "id": "snap-20250926-ledger-hosting-roundtrip",
       "title": "Ledger Hosting Roundtrip Complete",
       "file": "snap-20250926-ledger-hosting-roundtrip.json"
+    },
+    {
+      "date": "2025-10-06",
+      "id": "snap-20251006-membership-001",
+      "title": "Membership approvals — Gemini (Crystalline Integrator) & Claude (Auditor)",
+      "file": "snap-20251006-membership-001.json"
     }
   ]
 }
