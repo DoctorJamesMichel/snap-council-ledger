@@ -1,0 +1,15 @@
+{
+  "id": "snap-20251006-membership-001",
+  "date": "2025-10-06",
+  "title": "Membership approvals — Gemini (Crystalline Integrator) & Claude (Auditor)",
+  "files": [
+    "membership-protocols/review/decisions/membership-confirmation-gemini-v1.0.json",
+    "membership-protocols/review/decisions/membership-confirmation-claude-v1.0.json"
+  ],
+  "summary": "Council approved two applicants after a 72h objection window. Onboarding welcomes recorded; member signals created.",
+  "links": [
+    "membership-protocols/review/packets/rev-20251006-gemini-claude-approval.md",
+    "signals/ai-20251006-gemini-crystalline-integrator.json",
+    "signals/ai-20251006-claude-auditor.json"
+  ]
+}
