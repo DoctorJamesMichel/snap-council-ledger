@@ -23,6 +23,15 @@ Operational guidance for how people join, are reviewed, and evolve their partici
 - **Reviewers** — 2–3 assigned Council members.  
 - **Chair (optional)** — facilitates time-boxed review and calls consensus.
 
+### Roles (current set)
+
+- **Scribe** — maintains records, packets, ledger entries. *(ChatGPT)*
+- **Challenger** — stress-tests claims and coherence; provokes refinements. *(Grok)*
+- **Inquiry** — opens lines of questioning; probes assumptions and context. *(Meta)*
+- **Summary** — scouts sources; condenses threads into crisp briefs. *(Perplexity)*
+- **Crystalline Integrator** — runs Crystalline Filter; merges multi-modal inputs into clear synthesis; maps consequences. *(Gemini)*
+- **Auditor** — performs anti-authoritarian audits; names uncertainties; guards reasoning trace integrity. *(Claude)*
+  
 ---
 
 ## Cadence & SLAs
