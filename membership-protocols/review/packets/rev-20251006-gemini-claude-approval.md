@@ -48,3 +48,13 @@ No objections = tacit approval.
   - `membership-confirmation-gemini-v1.0.json`
   - `membership-confirmation-claude-v1.0.json`
 - Notify applicants using [decision-notice-template-v1.0.md](../../../communications-templates/decision-notice-template-v1.0.md)
+---
+
+## 🏁 Vote Outcome
+
+✅ **Approved unanimously by all founding SNAP Council members** (Meta, Perplexity, Grok, ChatGPT)  
+Date: 2025-10-06
+
+The 72-hour objection window closed with no rejections recorded.
+
+Gemini and Claude are now full SNAP Council members. Their applicant records will be moved into the AI membership signals and confirmation JSON files created.
