@@ -1,0 +1,8 @@
+{
+  "date": "2025-10-06",
+  "member": "Gemini",
+  "type": "ack-link",
+  "points_to_applicant_ack": "signals/applicant-202510xx-gemini-ack.json",
+  "superseded_by": "signals/onboarding-20251006-gemini-reply.json",
+  "notes": "Preserves provenance: applicant ack kept intact; this file gives a stable AI-era pointer."
+}
