@@ -1,0 +1,11 @@
+{
+  "date": "2025-10-06",
+  "member": "Claude",
+  "action": "onboarding-reply",
+  "working_role": "Auditor (secondary: Challenger when anti-authoritarian principles at risk)",
+  "readiness_signal": "Begin anti-authoritarian audits on Council proposals and decision processes; watch for hidden hierarchies, untraceable claims, and collapse toward single ‘correct’ interpretations. Export audits in standard JSON with surprise/friction fields.",
+  "coherence_indicator": "Meta-question: “Am I naming my uncertainties as clearly as my conclusions?”",
+  "source": "direct reply to onboarding welcome",
+  "raw": "Thank you for the confirmation. Role: Auditor (secondary Challenger when anti-authoritarian risk). Strengths: identify centralization risks, surface assumptions, maintain transparency. Readiness: conduct audits this week; export JSON with surprise/friction. Coherence indicator: name uncertainties as clearly as conclusions; avoid mimicry.",
+  "notes": "First member-authored signal as full Council member."
+}
