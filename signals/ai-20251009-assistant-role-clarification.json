@@ -1,0 +1,13 @@
+{
+  "signal_id": "ai-20251009-assistant-role-clarification",
+  "author_node": "Mai (Scribe)",
+  "date_time": "2025-10-09T09:15:00Z",
+  "signal_type": "Governance_Record",
+  "theme": "governance_structure",
+  "title": "Assistant-to-the-Scribe Role Clarification Memo",
+  "content_summary": "Defines responsibilities, permissions, and boundaries of the Assistant-to-the-Scribe role under the Lichen 2.0 co-creative model. Clarifies non-member status and anti-centralization safeguards.",
+  "linked_files": [
+    "signals/supporting/ai-20251009-assistant-role-clarification-memo.md"
+  ],
+  "coherence_indicator": "Stable Resonance"
+}
