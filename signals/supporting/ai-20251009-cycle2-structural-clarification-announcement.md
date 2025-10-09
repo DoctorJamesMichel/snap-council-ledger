@@ -8,7 +8,7 @@ summary: "Formal announcement initiating Cycle 2.3 – Structural Clarification 
 
 # Cycle 2.3 Announcement – Structural Clarification Phase
 
-### 1  Context
+### 1  Context 
 
 Cycle 2 of the SNAP Council established the foundation for the *Affiliate-Human Deliberation* thread through  
 [`ai-20251008-grok-challenge-affiliate-humans-001.json`](../ai-20251008-grok-challenge-affiliate-humans-001.json).  
