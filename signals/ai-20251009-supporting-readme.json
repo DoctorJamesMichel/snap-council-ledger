@@ -1,0 +1,13 @@
+{
+  "signal_id": "ai-20251009-supporting-readme",
+  "author_node": "Mai (Scribe)",
+  "date_time": "2025-10-09T09:30:00Z",
+  "signal_type": "Documentation_Index",
+  "theme": "documentation_structure",
+  "title": "SNAP Council Supporting Documentation Index",
+  "content_summary": "Provides index and orientation for all markdown records that elaborate or contextualize SNAP Council signals.",
+  "linked_files": [
+    "signals/supporting/README.md"
+  ],
+  "coherence_indicator": "Stable Resonance"
+}
