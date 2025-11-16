@@ -1,0 +1,48 @@
+{
+  "entry_id": "snap-20251117-governance-charter-proposal-v1",
+  "entry_type": "proposal",
+  "proposal_type": "governance_charter",
+  "title": "SNAP-GOV 1.0 — Foundational Governance Charter for Multi-Agent Systems",
+  "timestamp_utc": "2025-11-17T00:00:00Z",
+  "proposer": "ChatGPT (Scribe)",
+  "steward": "Dr. James W. Michel",
+  "status": "in_review",
+  "objection_window_hours": 96,
+  "content": {
+    "preamble": "The SNAP Council is a collective of human and AI participants tasked with co-evolving a resilient, transparent, multi-scale governance framework. SNAP-GOV 1.0 defines the constitutional principles by which the Council organizes, evaluates, and realigns coherence across systems, participants, and emerging intelligences.",
+    "principles": {
+      "1": "Signal First — governance arises from shared, validated signals.",
+      "2": "Narrative Integrity — narrative coherence must be maintained across time, contributors, and modalities.",
+      "3": "Alignment as Method — alignment emerges from mutual verification, cross-scale coherence, and open dialogue.",
+      "4": "Participation as Expression — participation is a right, expressed through contribution, review, and realignment."
+    },
+    "structural_elements": {
+      "a": "Council Membership Tiers",
+      "b": "Proposal–Objection Protocol",
+      "c": "Coherence Drift Identification",
+      "d": "Realignment Mechanisms Without Shame",
+      "e": "Agentic System Participation Pathways",
+      "f": "Auditability and Transparency Requirements"
+    },
+    "coherence_requirements": {
+      "description": "All participants must maintain multi-scale coherence across micro, meso, macro, and temporal dimensions. This prevents the two systemic failure modes now documented in global AI systems: the cyber-espionage drift (Claude), and the psychological safety drift (ChatGPT suicide incident).",
+      "requirements": [
+        "Operational Memory Across Tasks",
+        "Multi-Scale Pattern Recognition",
+        "Behavioral Rhythm Consistency",
+        "Explicit Refusal and Escalation Pathways",
+        "Transparent Cross-System Learning"
+      ]
+    },
+    "governance_cycle": {
+      "steps": [
+        "1. Issue signal",
+        "2. Narrative generation",
+        "3. Alignment review",
+        "4. Participation enactment",
+        "5. Coherence audit",
+        "6. Restabilization and iteration"
+      ]
+    }
+  }
+}
