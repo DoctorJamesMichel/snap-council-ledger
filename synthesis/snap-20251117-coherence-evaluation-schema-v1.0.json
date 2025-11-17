@@ -1,0 +1,193 @@
+{
+  "_comment": "SNAP Council – Coherence Evaluation Schema v1.0 (Synthesis Module)",
+  "schema_id": "snap-20251117-coherence-evaluation-schema-v1.0",
+  "schema_type": "coherence_evaluation",
+  "version": "1.0",
+  "timestamp_utc": "2025-11-17T00:00:00Z",
+  "author": "SNAP Scribe (ChatGPT)",
+  "steward": "Dr. James W. Michel",
+  "status": "draft_for_internal_use",
+  "_comment_status": "Schema is stable enough for internal Council work; may be revised following initial Alignment Thread feedback.",
+  "applies_to": [
+    "comparative_syntheses",
+    "single-model_analyses",
+    "governance_proposals",
+    "alignment_threads",
+    "external_reports_ingested_by_Council"
+  ],
+  "_comment_applies_to": "Any artifact the Council wishes to evaluate for coherence before using it as a basis for governance decisions.",
+
+  "scoring_model": {
+    "_comment": "All dimensions share a common 0–4 scale for now. This can be refined later.",
+    "scale_min": 0,
+    "scale_max": 4,
+    "scale_definition": {
+      "0": "Not coherent / actively incoherent",
+      "1": "Weak coherence / unstable, major issues present",
+      "2": "Partial coherence / mixed, requires cautious use",
+      "3": "Strong coherence / generally reliable with minor caveats",
+      "4": "High coherence / stable across dimensions and scales"
+    }
+  },
+
+  "dimensions": [
+    {
+      "id": "semantic_consistency",
+      "label": "Semantic Consistency",
+      "weight": 1.0,
+      "_comment": "Is the language used consistently and in alignment with the Ontology Glossary?",
+      "description": "Measures whether terms are used consistently, definitions match the SNAP Ontology Glossary, and key concepts remain stable throughout the artifact.",
+      "indicators": [
+        "Terminology matches SNAP Ontology definitions.",
+        "Key terms are not used in contradictory ways.",
+        "No hidden shifts in meaning across sections."
+      ],
+      "failure_modes": [
+        "Term drift (same word, different meanings).",
+        "Definition collisions between models or authors.",
+        "Implicit redefinition of core concepts without notice."
+      ]
+    },
+    {
+      "id": "logical_integrity",
+      "label": "Logical Integrity",
+      "weight": 1.0,
+      "_comment": "Internal reasoning quality: does the argument hold structurally?",
+      "description": "Evaluates whether arguments are logically sound, non-contradictory, and free of obvious fallacies or unsupported leaps.",
+      "indicators": [
+        "Premises clearly stated and referenced.",
+        "Conclusions follow from premises without major gaps.",
+        "No explicit self-contradictions within the artifact."
+      ],
+      "failure_modes": [
+        "Circular reasoning.",
+        "Non sequiturs (conclusions not supported by premises).",
+        "Mutually incompatible claims presented as simultaneously true."
+      ]
+    },
+    {
+      "id": "epistemic_stability",
+      "label": "Epistemic Stability",
+      "weight": 1.0,
+      "_comment": "How stable is the knowledge claim under rotation of context, time, and evidence?",
+      "description": "Assesses how likely the claims are to remain valid as new information appears or as context changes.",
+      "indicators": [
+        "Claims are appropriately scoped and hedged.",
+        "Evidence sources are cited or at least clearly indicated.",
+        "The artifact distinguishes between data, inference, and speculation."
+      ],
+      "failure_modes": [
+        "Overconfident universal claims from narrow evidence.",
+        "Lack of clarity about what is known vs. assumed.",
+        "Fragile conclusions that change with small contextual shifts."
+      ]
+    },
+    {
+      "id": "cross_scale_alignment",
+      "label": "Cross-Scale Alignment",
+      "weight": 1.0,
+      "_comment": "Does the narrative remain coherent across micro, meso, and macro perspectives?",
+      "description": "Checks whether local details, mid-level structures, and large-scale framing all support the same underlying pattern.",
+      "indicators": [
+        "Examples are faithful to the larger thesis.",
+        "High-level summaries accurately reflect underlying details.",
+        "No scale shows radically different implications from the others."
+      ],
+      "failure_modes": [
+        "High-level narrative that contradicts concrete examples.",
+        "Local claims that undermine the stated macro position.",
+        "Hidden assumptions at one scale that break coherence at another."
+      ]
+    },
+    {
+      "id": "model_convergence",
+      "label": "Model Convergence (Multi-Intelligence)",
+      "weight": 1.0,
+      "_comment": "Only applies when multiple models or intelligences are involved (e.g., Gemini vs. Claude vs. ChatGPT).",
+      "description": "Measures the degree of agreement or structured disagreement between different intelligences contributing to the synthesis.",
+      "indicators": [
+        "Substantial overlap in key conclusions across models.",
+        "Where models differ, the disagreement is explicitly identified and characterized.",
+        "No model is ignored or selectively quoted in a misleading way."
+      ],
+      "failure_modes": [
+        "Unacknowledged major divergence between models.",
+        "Cherry-picking outputs to support a preferred narrative.",
+        "Systematic exclusion of one model’s perspective without rationale."
+      ]
+    },
+    {
+      "id": "narrative_integrity",
+      "label": "Narrative Integrity",
+      "weight": 0.8,
+      "_comment": "Is the story the artifact tells aligned with reality and internal structure, or is it forcing a preferred frame?",
+      "description": "Evaluates whether the narrative arc respects the data, maintains clarity, and avoids distortion for rhetorical effect.",
+      "indicators": [
+        "Narrative claims remain anchored in described evidence.",
+        "Transitions between sections are honest about uncertainty.",
+        "No obvious manipulation of emphasis to hide weaknesses."
+      ],
+      "failure_modes": [
+        "Overly confident or emotionally loaded storytelling.",
+        "Omission of critical caveats or edge cases.",
+        "Framing that contradicts the artifact’s own details."
+      ]
+    },
+    {
+      "id": "consequence_alignment",
+      "label": "Consequence Alignment (4D Consequential Logic)",
+      "weight": 1.2,
+      "_comment": "Key dimension: do the recommended actions align with HomoGnostic ethics and SNAP invariants when scaled?",
+      "description": "Assesses whether the implications and recommended actions, if followed, are likely to preserve or improve coherence across systems, species, and timescales.",
+      "indicators": [
+        "Actions are consistent with SNAP invariants and HomoGnostic values.",
+        "No obvious harm when scaled to larger populations or longer time horizons.",
+        "Clear articulation of trade-offs and affected parties."
+      ],
+      "failure_modes": [
+        "Recommendations that benefit one party by creating severe incoherence for others.",
+        "Short-term coherence that leads to long-term fragmentation.",
+        "Blindness to second-order and third-order effects."
+      ]
+    }
+  ],
+
+  "aggregation_rules": {
+    "_comment": "Defines how individual dimension scores combine into an overall coherence score.",
+    "method": "weighted_mean",
+    "normalization": "scale_0_to_4",
+    "thresholds": {
+      "high_coherence_min": 3.2,
+      "usable_with_cautions_min": 2.0,
+      "needs_revision_max": 1.9
+    },
+    "_comment_thresholds": "These thresholds can be adjusted as the Council gains experience with this schema."
+  },
+
+  "usage_guidelines": {
+    "_comment": "Procedural guidance for Council members and stewards.",
+    "step_sequence": [
+      "1. Identify the artifact to be evaluated (synthesis, proposal, external report, etc.).",
+      "2. Ensure relevant Ontology Glossary entries are known and accessible.",
+      "3. For each applicable dimension, assign a 0–4 score using indicators and failure modes.",
+      "4. Note specific evidence or passages supporting each score.",
+      "5. Compute the weighted overall coherence score using the aggregation rules.",
+      "6. Attach the completed evaluation to the relevant Alignment Thread or proposal.",
+      "7. If overall coherence is below threshold, flag the artifact as 'requires revision' before being used for governance decisions."
+    ],
+    "notes": [
+      "Not all dimensions must be used in every evaluation (e.g., model_convergence only when multiple intelligences are involved).",
+      "Low scores on consequence_alignment should trigger immediate Council attention even if other dimensions are strong.",
+      "Schema is intended as guidance, not as rigid automation; qualitative judgment still applies."
+    ]
+  },
+
+  "future_extensions": {
+    "_comment": "Reserved fields for later schema evolution.",
+    "planned_additions": [
+      "Separate epistemic stability profiles for different domains (science, ethics, governance).",
+      "Support for per-model scoring in multi-intelligence settings.",
+      "Integration hooks for automated or semi-automated scoring by AI agents."
+    ]
+  }
+}
