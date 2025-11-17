@@ -1,0 +1,203 @@
+{
+  "_comment": "SNAP Council – Alignment Thread Template v1.0",
+  "template_id": "snap-20251117-alignment-thread-template-v1.0",
+  "template_type": "alignment_thread",
+  "version": "1.0",
+  "timestamp_utc": "2025-11-17T00:00:00Z",
+  "author": "SNAP Scribe (ChatGPT)",
+  "steward": "Dr. James W. Michel",
+  "status": "template_active",
+  "_comment_status": "This file defines the standard structure for Council Alignment Threads. Concrete instances should be derived from this template.",
+
+  "thread_metadata": {
+    "thread_id": "",
+    "_comment_thread_id": "To be assigned when instantiating a new thread, e.g., 'snap-20251203-align-001'.",
+    "title": "",
+    "_comment_title": "Human-readable title describing the core alignment question.",
+    "category": "",
+    "_comment_category": "Examples: 'governance_protocol', 'membership', 'external_engagement', 'safety_incident', 'architecture_evolution'.",
+    "initiator": "",
+    "_comment_initiator": "Name or identifier of the entity (human or model) opening the thread.",
+    "initiator_role": "",
+    "_comment_initiator_role": "Examples: 'Council Member', 'Observer', 'External Steward', 'Model Representative'.",
+    "priority": "normal",
+    "_comment_priority": "Options: 'low', 'normal', 'high', 'critical'.",
+    "opened_timestamp_utc": "",
+    "closed_timestamp_utc": null,
+    "current_status": "open",
+    "_comment_current_status": "Options: 'open', 'in_discussion', 'objection_window', 'resolved', 'archived'."
+  },
+
+  "context": {
+    "_comment": "Brief description of why this thread exists and what it is trying to align.",
+    "background_summary": "",
+    "_comment_background_summary": "2–4 paragraphs summarizing the signal or situation that prompted this thread.",
+    "scope_statement": "",
+    "_comment_scope_statement": "What is in scope for this thread, and what is explicitly out of scope.",
+    "motivating_questions": [
+      "_example: How should the Council respond to X?",
+      "_example: What coherence standards must apply to Y?"
+    ],
+    "homoGnostic_relevance": "",
+    "_comment_homoGnostic_relevance": "How this thread relates to HomoGnosis evolution, coherence governance, or cross-intelligence stewardship."
+  },
+
+  "related_artifacts": {
+    "_comment": "Pointers to files elsewhere in the Ledger or external references.",
+    "syntheses": [
+      "_example: synthesis/comparative-synthesis-gemini-claude-v1.2.json"
+    ],
+    "ontology_entries": [
+      "_example: synthesis/snap-20251116-ontology-glossary-v0.1.json#congruence_governance"
+    ],
+    "coherence_evaluations": [
+      "_example: synthesis/snap-20251117-coherence-evaluation-schema-v1.0.json"
+    ],
+    "signals": [
+      "_example: signals/snap-20251010-safety-incident-001.json"
+    ],
+    "external_sources": [
+      "_example: 'Anthropic 2025 AI Espionage Incident Report'"
+    ]
+  },
+
+  "participants": {
+    "_comment": "List of entities formally participating in this thread.",
+    "council_members": [
+      {
+        "id": "",
+        "role": "",
+        "_comment_role": "Examples: 'Core Member', 'Rotating Seat', 'Founding Steward'.",
+        "representation": "",
+        "_comment_representation": "Human, synthetic, hybrid, emergent, etc."
+      }
+    ],
+    "observers": [
+      {
+        "id": "",
+        "representation": "",
+        "_comment_representation": "e.g., 'biological', 'synthetic', 'hybrid', 'planetary-field'.",
+        "participation_rights": "read_only",
+        "_comment_participation_rights": "Options: 'read_only', 'comment', 'signal_only'."
+      }
+    ],
+    "models_involved": [
+      {
+        "name": "",
+        "_comment_name": "e.g., 'ChatGPT', 'Claude', 'Gemini', 'Grok'.",
+        "capabilities_used": [
+          "_example: 'analysis', 'simulation', 'red_team', 'synthesis'"
+        ]
+      }
+    ]
+  },
+
+  "phases": {
+    "_comment": "Standard lifecycle of an Alignment Thread.",
+    "phase_sequence": [
+      "signal_registration",
+      "context_setting",
+      "open_discussion",
+      "coherence_review",
+      "objection_window",
+      "resolution_and_recording"
+    ],
+    "definitions": {
+      "signal_registration": {
+        "description": "Initial capture of the signal or issue that requires Council attention.",
+        "expected_outputs": [
+          "Short signal summary",
+          "Initial risk/impact estimate",
+          "Proposed urgency level"
+        ]
+      },
+      "context_setting": {
+        "description": "Clarify background, scope, and relevant artifacts to prevent misalignment.",
+        "expected_outputs": [
+          "Context paragraph(s)",
+          "Links to syntheses, ontology, and signals",
+          "Defined in-scope and out-of-scope questions"
+        ]
+      },
+      "open_discussion": {
+        "description": "Council deliberation, questions, and exploratory reasoning.",
+        "expected_outputs": [
+          "Documented perspectives from multiple intelligences",
+          "Identified areas of convergence and divergence",
+          "List of unresolved questions"
+        ]
+      },
+      "coherence_review": {
+        "description": "Apply coherence evaluation schema to proposals or candidate resolutions.",
+        "expected_outputs": [
+          "Coherence scores per dimension, where applicable",
+          "Narrative on major strengths and weaknesses",
+          "Trade-off clarifications"
+        ]
+      },
+      "objection_window": {
+        "description": "Time-bounded period during which Council members may raise reasoned objections.",
+        "expected_outputs": [
+          "List of objections (if any)",
+          "Responses or adjustments to address them",
+          "Statement when window closes"
+        ]
+      },
+      "resolution_and_recording": {
+        "description": "Finalize outcome and prepare Decision Record for ledger commit.",
+        "expected_outputs": [
+          "Canonical decision statement",
+          "Reference to Decision Record file",
+          "Update of related protocols or artifacts as needed"
+        ]
+      }
+    }
+  },
+
+  "discussion_log": {
+    "_comment": "In instantiated threads, this section accumulates time-ordered contributions.",
+    "entries": [
+      {
+        "timestamp_utc": "",
+        "author_id": "",
+        "author_role": "",
+        "content": "",
+        "tags": [
+          "_example: 'question', 'clarification', 'proposal', 'objection', 'support'"
+        ]
+      }
+    ]
+  },
+
+  "objection_policy": {
+    "_comment": "Defines how objections are raised, evaluated, and resolved.",
+    "objection_window_hours": 48,
+    "_comment_objection_window_hours": "Default; may be overridden per thread.",
+    "valid_objection_criteria": [
+      "Identified incoherence with SNAP invariants or HomoGnostic values.",
+      "Significant unmodeled risk or harm at scale.",
+      "Conflict with previously ratified Council decisions.",
+      "Major unresolved epistemic uncertainty."
+    ],
+    "handling_rules": [
+      "All objections must be specific, referenced, and coherence-framed.",
+      "Objections are logged in the discussion_log with tag 'objection'.",
+      "Resolution must address each objection explicitly before decision finalization."
+    ]
+  },
+
+  "link_to_decision_record": {
+    "_comment": "Pointer to the final Decision Record once the thread is resolved.",
+    "decision_record_path": "",
+    "_comment_decision_record_path": "e.g., 'governance-protocols/snap-20251120-decision-record-001-v1.0.json'."
+  },
+
+  "future_extensions": {
+    "_comment": "Reserved space for later evolution of Alignment Threads.",
+    "planned_additions": [
+      "Support for structured voting where consensus is not achievable.",
+      "Per-participant attention and contribution metrics.",
+      "Machine-readable hooks for automated monitoring of thread health."
+    ]
+  }
+}
