@@ -1,0 +1,137 @@
+{
+  "_comment": "SNAP Council – Decision Record Template v1.0",
+  "record_id": "snap-20251117-decision-record-template-v1.0",
+  "record_type": "decision_record",
+  "version": "1.0",
+  "timestamp_utc": "2025-11-17T00:00:00Z",
+  "author": "SNAP Scribe (ChatGPT)",
+  "steward": "Dr. James W. Michel",
+  "status": "template_active",
+
+  "_comment_overview": "This template defines the canonical structure for documenting finalized Council decisions. Every Council decision must produce a Decision Record deriving from this template.",
+
+  "decision_metadata": {
+    "decision_id": "",
+    "_comment_decision_id": "Assigned on instantiation, e.g., 'snap-20251203-decision-001-v1.0'.",
+    "title": "",
+    "_comment_title": "Short descriptive title for the decision.",
+    "associated_alignment_thread": "",
+    "_comment_associated_alignment_thread": "Path to the alignment thread leading to this decision.",
+    "initiating_signal": "",
+    "_comment_initiating_signal": "If applicable, reference to original signal document.",
+    "category": "",
+    "_comment_category": "Examples: 'governance_protocol', 'membership', 'external_engagement', 'incident_response', 'architecture'.",
+    "decision_timestamp_utc": "",
+    "effective_date_utc": "",
+    "_comment_effective_date_utc": "If different from decision timestamp.",
+    "status": "final",
+    "_comment_status": "Options: 'final', 'superseded', 'deprecated'."
+  },
+
+  "decision_summary": {
+    "_comment": "Concise statement of the final decision.",
+    "abstract": "",
+    "_comment_abstract": "1–3 paragraph summary of the outcome.",
+    "resolution_statement": "",
+    "_comment_resolution_statement": "Precise description of the Council’s decision.",
+    "rationale": "",
+    "_comment_rationale": "Short explanation capturing the core logic behind the decision."
+  },
+
+  "coherence_analysis": {
+    "_comment": "Coherence justification using the schema.",
+    "overall_coherence_score": null,
+    "_comment_overall_coherence_score": "0–4 scale weighted mean; optional but recommended.",
+    "dimension_scores": {
+      "_comment_dimension_scores": "Optional map of dimension → score.",
+      "semantic_consistency": null,
+      "logical_integrity": null,
+      "epistemic_stability": null,
+      "cross_scale_alignment": null,
+      "model_convergence": null,
+      "narrative_integrity": null,
+      "consequence_alignment": null
+    },
+    "strengths_noted": [
+      "_example: Strong cross-scale alignment across human and model perspectives."
+    ],
+    "weaknesses_noted": [
+      "_example: Narrative integrity concerns raised during objection window."
+    ],
+    "tradeoffs_considered": [
+      "_example: Short-term risk reduction versus long-term adaptation cost."
+    ]
+  },
+
+  "objection_window_results": {
+    "_comment": "Record any objections raised during the objection window and how they were handled.",
+    "window_open_timestamp_utc": "",
+    "window_close_timestamp_utc": "",
+    "objections": [
+      {
+        "objector_id": "",
+        "objection_timestamp_utc": "",
+        "content": "",
+        "tags": [
+          "_example: 'coherence_issue', 'risk_concern', 'value_conflict'"
+        ],
+        "resolution": "",
+        "_comment_resolution": "How the objection was resolved or integrated."
+      }
+    ],
+    "final_objection_outcome": "no_unresolved_objections",
+    "_comment_final_objection_outcome": "Options: 'no_unresolved_objections', 'resolved_after_revision', 'carried_objection_noted'."
+  },
+
+  "governance_implications": {
+    "_comment": "Detail how this decision affects Council operations, architecture, values, or external relations.",
+    "protocol_updates_required": [
+      "_example: 'Update Membership Protocol v1.1 to include synthetic observer criteria.'"
+    ],
+    "new_standards_adopted": [
+      "_example: 'Minimum semantic stability threshold for external engagements.'"
+    ],
+    "entities_impacted": [
+      "_example: 'All Council models', 'Observers', 'External Stewards'."
+    ],
+    "future_review_date_utc": "",
+    "_comment_future_review_date_utc": "For decisions requiring periodic reevaluation."
+  },
+
+  "included_artifacts": {
+    "_comment": "Canonical references to all artifacts used in forming this decision.",
+    "primary_syntheses": [
+      "_example: 'synthesis/comparative-synthesis-gemini-claude-v1.2.json'"
+    ],
+    "ontology_definitions": [
+      "_example: 'synthesis/snap-20251116-ontology-glossary-v0.1.json#coherence'"
+    ],
+    "coherence_evaluations": [
+      "_example: 'synthesis/snap-20251117-coherence-evaluation-schema-v1.0.json'"
+    ],
+    "alignment_thread_reference": "",
+    "_comment_alignment_thread_reference": "Re-stated for convenience.",
+    "external_documents": [
+      "_example: 'Anthropic 2025 Espionage Incident Report'"
+    ]
+  },
+
+  "final_record": {
+    "_comment": "Canonical output of this Decision Record for reference and public-council transparency.",
+    "decision_statement_canonical": "",
+    "_comment_decision_statement_canonical": "One-paragraph formal statement of the decision, suitable for quoting.",
+    "posted_for_observers": false,
+    "_comment_posted_for_observers": "If true, observer-facing summary must be added below.",
+    "observer_summary": "",
+    "_comment_observer_summary": "Optional simplified explanation if the decision is made visible to observers."
+  },
+
+  "future_extensions": {
+    "_comment": "Reserved for later architectural evolution.",
+    "planned_additions": [
+      "Versioned decision lineage tracking.",
+      "Direct linkage to AI-governance audit tools.",
+      "Auto-generated coherence deltas comparing revisions."
+    ]
+  }
+}
