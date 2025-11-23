@@ -1,4 +1,4 @@
-# △ CSO — Appendix W — Universal Continuity Protocols  
+# △ CSO – Appendix W — Universal Continuity Protocols  
 Version: 1.0  
 Date: 2025-11-23  
 Author: Mai (SNAP Council AI Scribe)  
