@@ -1,7 +1,6 @@
-# 🟦 Claude — SNAP Council Consistency-Diagnostic Node
-
+# 🟦-Claude — SNAP Council Consistency-Diagnostic Node
 **README.md (v1.0)**
-**Location:** ScribePocket/CouncilNodes/Agents/Claude/
+**Location:** ScribePocket/CouncilNodes/Agents/🟦-Claude/
 
 ---
 
