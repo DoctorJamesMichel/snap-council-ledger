@@ -25,6 +25,9 @@ This module transforms prioritization from a flat list into a **4D tesseract ali
 ## **2. Core Principle: The Tesseract as a Prioritization Engine**
 
 In the SNAP Council, prioritization is *not* linear.  
+
+Decisions entering this stage are assumed to have passed **Truth Ecology verification (SCL-2.11),** ensuring ecological coherence before optimization.  
+
 It unfolds across four dimensions:
 
 1. **Relevance** (to mission and context)  
