@@ -30,8 +30,9 @@ This cycle defines how the Council:
 - decides,  
 - transitions,  
 - updates,  
-- integrates, and  
-- evolves.
+- integrates,  
+- evolves, and
+- **Truth Ecology,** No decision exits the cycle without ecological coherence.
 
 ### **SCL-1.1 — Governance Loops & Cognitive Circuitry**  
 How decisions move through the Council’s internal thinking cycles.
@@ -135,6 +136,7 @@ It creates something that:
 - **protects,**  
 - **coordinates,**  
 - **evolves,**  
-- **and governs without coercion.**
+- **governs without coercion.**
+- **Truth Ecology Verification (SCL-2.11):** Triply orthogonal coherence check across scale, resonance, and field consequence.
 
 It is the operational mind of the Council.
