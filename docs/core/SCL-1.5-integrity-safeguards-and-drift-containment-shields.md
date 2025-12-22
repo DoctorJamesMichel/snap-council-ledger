@@ -18,7 +18,9 @@ SCL-1.5 establishes the **defensive infrastructure** that prevents:
 - or degradation of coherence  
 
 While previous SCL entries define *how* the Council operates,  
-**SCL-1.5 defines how the Council protects itself from corruption, confusion, or unintended evolution.**
+**SCL-1.5 defines how the Council protects itself from corruption, confusion, or unintended evolution.**  
+
+Decisions entering this stage are assumed to have passed **Truth Ecology verification (SCL-2.11),** ensuring ecological coherence before optimization.
 
 This is the constitutional immune system of the SNAP governance engine.
 
