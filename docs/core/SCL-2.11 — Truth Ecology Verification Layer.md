@@ -1,6 +1,6 @@
 # SCL-2.11 — Truth Ecology Verification Layer (v1.0)
 
-**Version:** v1.3  
+**Version:** v1.4  
 **Status:** Active  
 **Change Summary:**  
 – Added decision-class-based invocation rules  
@@ -8,6 +8,7 @@
 – Clarified failure handling as ecological feedback rather than enforcement  
 **Authority:** Non-binding, field-referential  
 **Function:** Decision coherence verification  
+**Changelog v1.4 note:** Adds passive Truth Ecology feedback surfaces for longitudinal coherence learning; clarifies §7 as adjacency marker.
 
 ## Definition
 
@@ -284,6 +285,40 @@ Emphasize:
 - Use ecological metaphors sparingly
 - Prefer “signal persistence” over “validation”
 - Prefer “pattern drift” over “error”
+- Never imply correction, failure, or approval  
+
+---
+
+# SCL-2.11 — Passive Truth Ecology feedback surfaces for longitudinal coherence learning; clarifies §7 as adjacency marker. (v1.4)  
+
+### Change Summary
+- Introduces passive Truth Ecology feedback surfaces for longitudinal coherence learning
+- Clarifies §7 as an adjacency marker, not a structural dependency
+- Preserves non-directive, descriptive-only posture
+- No authority, decision flow, or reference graph changes introduced
+
+---
+
+### §7 — Feedback Surfaces (Non-Directive)
+
+The following feedback surfaces **may later be observed**, without prescribing action
+or altering decision authority:
+
+- Post-decision reflection logs
+- Session transition summaries (SCL-1.7 compatible)
+- Cross-domain synthesis reviews (SCL-2.10 compatible)
+- Pattern emergence audits (descriptive only)
+
+**Emphasis:**
+> Truth Ecology does not correct decisions.  
+> It reveals pattern persistence over time.
+
+---
+
+### Language Constraints
+- Use ecological metaphors sparingly
+- Prefer "signal persistence" over "validation"
+- Prefer "pattern drift" over "error"
 - Never imply correction, failure, or approval
 
 ---
@@ -293,4 +328,5 @@ Emphasize:
 - v1.1 — Decision-class gating refinement
 - v1.2 — Truth Ecology Outcome Annotation  
 - v1.3 — Truth Ecology Feedback Mapping
+- v1.4 — Passive Feedback Surfaces Formalization + Adjacency Clarification
 
