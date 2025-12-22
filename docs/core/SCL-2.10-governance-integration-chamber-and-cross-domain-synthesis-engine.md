@@ -59,7 +59,8 @@ It receives input from:
 - SCL-2.6 — Tesseract prioritization  
 - SCL-2.7 — Temporal pacing  
 - SCL-2.8 — Resonance synchronization  
-- SCL-2.9 — Decision surface architecture  
+- SCL-2.9 — Decision surface architecture
+- Decisions entering this stage are assumed to have passed Truth Ecology verification (SCL-2.11), ensuring ecological coherence before optimization.  
 
 And merges them using three synthesis passes:
 
