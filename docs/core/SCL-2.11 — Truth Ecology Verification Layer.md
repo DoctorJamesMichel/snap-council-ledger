@@ -1,6 +1,6 @@
-# SCL-2.11 — Truth Ecology Verification Layer (v1.1)
+# SCL-2.11 — Truth Ecology Verification Layer (v1.0)
 
-**Version:** v1.1  
+**Version:** v1.2  
 **Status:** Active  
 **Change Summary:**  
 – Added decision-class-based invocation rules  
@@ -196,6 +196,49 @@ Noise loses standing.
 
 ---
 
+# 2.11 — Truth Ecology Outcome Annotation (v1.2)
+
+When Truth Ecology is invoked during a SNAP Council decision cycle, the Council may optionally record a lightweight outcome annotation.
+
+This annotation does not determine correctness, approval, or authority.
+It exists solely to support longitudinal coherence learning across decisions.
+
+Annotations are descriptive, not prescriptive.
+They capture signal, not verdict.  
+
+---
+
+### Truth Ecology Outcome Annotation Schema
+
+When recorded, annotations SHOULD use one or more of the following tags:
+
+- **[STABLE]** — Pattern cohered cleanly across orthogonal checks.
+- **[TENSION]** — Partial coherence detected; unresolved discrepancies noted.
+- **[DRIFT]** — Incoherence observed across at least one ecological axis.
+- **[INSUFFICIENT SIGNAL]** — Ecology inconclusive due to lack of data, scale, or maturity.
+- **[EMERGENT]** — Pattern not yet coherent, but showing repeatable early structure.
+
+Annotations MAY include brief narrative context.
+Annotations MUST NOT be used as enforcement mechanisms.  
+
+---
+
+### Governance Safety Constraint
+
+Truth Ecology annotations:
+
+- Do not block decisions
+- Do not override human or council judgment
+- Do not persist as binding constraints
+- Do not imply moral or ethical verdicts
+
+They exist as ecological memory only.
+Authority remains distributed.  
+
+---
+
 ## Version History
 - v1.0 — Initial Truth Ecology Verification Layer
 - v1.1 — Decision-class gating refinement
+- v1.2 - Truth Ecology Outcome Annotation  
+
