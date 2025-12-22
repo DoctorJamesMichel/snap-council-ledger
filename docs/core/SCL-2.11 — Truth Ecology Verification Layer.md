@@ -5,7 +5,7 @@
 **Change Summary:**  
 – Added decision-class-based invocation rules  
 – Distinguished mandatory, conditional, and optional Truth Ecology checks  
-– Clarified failure handling as ecological feedback rather than enforcement
+– Clarified failure handling as ecological feedback rather than enforcement  
 **Authority:** Non-binding, field-referential
 **Function:** Decision coherence verification  
 
@@ -86,84 +86,116 @@ Truth Ecology complements:
 It introduces no new power center.
 It strengthens signal hygiene.  
 
-## SCL-2.11.1 — Decision Class Invocation Rules (v1.1)
+# SCL-2.11 — Truth Ecology Verification Layer (v1.1)
 
-Truth Ecology is not uniformly applied to all decisions.
-It is invoked according to *decision class*, preserving agility while enforcing coherence where stakes compound.  
+## Purpose
+Truth Ecology functions as an ecological verification layer within the SNAP Council decision cycle.
+It is invoked selectively based on decision class, not universally, preserving flow while enforcing coherence where risk, scale, or irreversibility demands it.
 
-This section defines **mandatory**, **conditional**, and **optional** Truth Ecology checks within a SNAP Council decision cycle.  
+This refinement introduces **decision-class gating** for Truth Ecology invocation.
 
-### A. Mandatory Truth Ecology Invocation
+---
 
-Truth Ecology verification **MUST** be invoked for the following decision classes.
-Proceeding without successful verification constitutes a coherence violation.
+## Decision Classes & Invocation Requirements
 
-**Mandatory classes include:**
+### Class I — Structural / Irreversible Decisions (MANDATORY)
+Truth Ecology verification **must be invoked** prior to ratification.
 
-1. **Structural Decisions**
-   - Creation, modification, or removal of governance protocols
-   - Introduction of new verification layers, axioms, or meta-rules
+Includes:
+- Governance architecture changes
+- Ontology modifications
+- Protocol creation or deletion
+- Authority redistribution
+- External commitments with irreversible consequence
+- System-wide incentives or constraints
 
-2. **Irreversible Commitments**
-   - Actions with high sunk cost, long lock-in, or path dependency
-   - Commitments affecting future optionality across multiple cycles
+Rationale:
+These decisions alter the ecological substrate itself.
+Failure to verify coherence across scale, consequence, and field integrity risks systemic drift.
 
-3. **High External Impact Decisions**
-   - Decisions materially affecting non-consenting parties
-   - Public-facing, ecological, economic, or health-related consequences
+Status:
+**Truth Ecology verification required.**
 
-4. **Narrative-Setting Declarations**
-   - Claims establishing shared truth, authority, or legitimacy
-   - Framing statements that anchor downstream reasoning
+---
 
-5. **Cross-Domain Integrations**
-   - Actions linking technical, social, ethical, and biological domains
-   - Any coupling that multiplies consequence across scales
+### Class II — Strategic / Multi-Scale Decisions (STRONGLY RECOMMENDED)
+Truth Ecology verification is **strongly recommended**, with explicit waiver required if bypassed.
 
-For these classes, **failure at any Truth Ecology axis halts progression** until coherence is restored or the proposal is withdrawn.  
+Includes:
+- Resource allocation strategies
+- Long-horizon planning
+- Cross-domain coordination
+- Policy frameworks
+- Narrative framing with public impact
 
-### B. Conditional Truth Ecology Invocation
+Rationale:
+These decisions propagate across time and scale.
+Truth Ecology improves alignment detection and noise suppression before entrenchment.
 
-Truth Ecology verification is **conditionally required** when uncertainty, novelty, or signal conflict is detected.
+Status:
+**Truth Ecology verification recommended; waiver logged if skipped.**
 
-Conditional triggers include:
+---
 
-- Novel mechanisms without precedent across scales
-- Strong persuasion signals paired with weak consequence modeling
-- Internal disagreement persisting beyond one decision cycle
-- Detection of narrative compression or oversimplification
-- Early signs of scale-dependent inconsistency
+### Class III — Operational / Reversible Decisions (OPTIONAL)
+Truth Ecology verification is **optional**, used as a diagnostic tool rather than a gate.
 
-In these cases, any Council member or verification agent may invoke Truth Ecology as a **diagnostic escalation**, not a veto.
+Includes:
+- Day-to-day operations
+- Local optimizations
+- Reversible experiments
+- Tactical adjustments
 
-Invocation pauses the decision long enough to surface coherence signals.  
+Rationale:
+Over-invocation at this level reduces agility.
+Truth Ecology may be invoked selectively for anomaly detection or pattern sensing.
 
-### C. Optional Truth Ecology Invocation
+Status:
+**Truth Ecology optional.**
 
-Truth Ecology may be optionally invoked for:
+---
 
-- Exploratory ideation
-- Early-stage hypothesis formation
-- Low-risk internal experimentation
-- Personal or sub-team sensemaking
+### Class IV — Exploratory / Sensemaking Decisions (PROHIBITED)
+Truth Ecology verification **must not be invoked**.
 
-In optional contexts, Truth Ecology functions as a **signal amplifier**, not a gate.
-Results inform learning but do not constrain action unless voluntarily adopted.
+Includes:
+- Hypothesis generation
+- Creative exploration
+- Early ideation
+- Speculative inquiry
+- Personal reflection inputs
 
-This preserves creative flow while training coherence intuition.  
+Rationale:
+Truth Ecology stabilizes patterns.
+Exploration requires noise tolerance.
+Premature verification collapses generative space.
 
-### D. Failure Handling and Drift Containment
+Status:
+**Truth Ecology invocation prohibited.**
 
-Truth Ecology does not assign blame.
-It reveals misalignment.
+---
 
-When a proposal fails verification:
+## Invocation Signal
+When Truth Ecology is invoked, the following signal is logged:
 
-- No punitive action is taken
-- The failure is logged as ecological feedback
-- The proposal may be revised, decomposed, or abandoned
+> “Truth Ecology invoked — coherence assessed across scale, consequence, and field alignment.”
 
-Repeated failures without adaptive learning trigger **drift containment protocols** defined elsewhere in the Ledger.
+When bypassed (Class II only), the following waiver is logged:
 
-Truth Ecology acts as an immune response, not a judge.  
+> “Truth Ecology waived — rationale documented.”
 
+---
+
+## Governance Principle
+Truth Ecology does not decide.
+It **constrains the decision space** by allowing coherence to persist and incoherence to decay.
+
+Authority remains distributed.
+Reality votes.
+Noise loses standing.
+
+---
+
+## Version History
+- v1.0 — Initial Truth Ecology Verification Layer
+- v1.1 — Decision-class gating refinement
