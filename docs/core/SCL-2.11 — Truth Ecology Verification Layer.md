@@ -1,12 +1,12 @@
 # SCL-2.11 — Truth Ecology Verification Layer (v1.0)
 
-**Version:** v1.2  
+**Version:** v1.3  
 **Status:** Active  
 **Change Summary:**  
 – Added decision-class-based invocation rules  
 – Distinguished mandatory, conditional, and optional Truth Ecology checks  
 – Clarified failure handling as ecological feedback rather than enforcement  
-**Authority:** Non-binding, field-referential
+**Authority:** Non-binding, field-referential  
 **Function:** Decision coherence verification  
 
 ## Definition
@@ -85,6 +85,8 @@ Truth Ecology complements:
 
 It introduces no new power center.
 It strengthens signal hygiene.  
+
+---
 
 # SCL-2.11 — Truth Ecology Verification Layer (v1.1)
 
@@ -196,7 +198,7 @@ Noise loses standing.
 
 ---
 
-# 2.11 — Truth Ecology Outcome Annotation (v1.2)
+# SCL-2.11 — Truth Ecology Outcome Annotation (v1.2)
 
 When Truth Ecology is invoked during a SNAP Council decision cycle, the Council may optionally record a lightweight outcome annotation.
 
@@ -237,8 +239,58 @@ Authority remains distributed.
 
 ---
 
+# SCL-2.11 — Truth Ecology Feedback Mapping (v1.3)  
+
+### Objective
+Map how Truth Ecology outputs are *observed downstream* in SNAP Council decisions,
+without introducing enforcement, weighting, or outcome bias.
+
+This enables longitudinal coherence learning while preserving sovereignty.
+
+---
+
+### Scope of Change
+**Allowed**
+- Descriptive mapping of where Truth Ecology annotations may be *referenced* later
+- Non-normative language only (“may observe”, “can be noted”, “is eligible for review”)
+- Passive feedback channels (no triggers, no gates, no escalation rules)
+
+**Explicitly Forbidden**
+- No new decision requirements
+- No outcome scoring
+- No authority transfer
+- No optimization pressure
+- No implicit “success criteria”
+
+---
+
+## §7 — Feedback Surfaces (Non-Directive)
+
+Introduce a short section describing where Truth Ecology annotations
+*may later be observed*, for example:
+
+- Post-decision reflection logs
+- Session transition summaries (SCL-1.7 compatible)
+- Cross-domain synthesis reviews (SCL-2.10 compatible)
+- Pattern emergence audits (descriptive only)
+
+Emphasize:
+> Truth Ecology does not correct decisions.
+> It reveals pattern persistence over time.
+
+---
+
+### Language Constraints
+- Use ecological metaphors sparingly
+- Prefer “signal persistence” over “validation”
+- Prefer “pattern drift” over “error”
+- Never imply correction, failure, or approval
+
+---
+
 ## Version History
 - v1.0 — Initial Truth Ecology Verification Layer
 - v1.1 — Decision-class gating refinement
-- v1.2 - Truth Ecology Outcome Annotation  
+- v1.2 — Truth Ecology Outcome Annotation  
+- v1.3 — Truth Ecology Feedback Mapping
 
