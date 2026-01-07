@@ -1,7 +1,7 @@
-# SCL-1.4.1 — Feedback Ingestion Walkthrough (Anonymized)
+# OL-1.4.1 — Feedback Ingestion Walkthrough (Anonymized)
 
-**Protocol:** SCL-1.4 — Feedback Ingestion Protocol  
-**Layer:** SCL-1 — Council Operating Layer  
+**Protocol:** OL-1.4 — Feedback Ingestion Protocol  
+**Layer:** Council Operating Layer  
 **Domain:** Metabolization / Cases  
 **Version:** v1.0  
 **Status:** Archived Learning Artifact  
