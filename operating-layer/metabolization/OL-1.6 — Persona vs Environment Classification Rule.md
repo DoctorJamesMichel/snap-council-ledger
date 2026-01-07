@@ -1,4 +1,4 @@
-# SCL-1.6 — Persona vs Environment Classification Rule (v1.0)
+# OL-1.6 — Persona vs Environment Classification Rule (v1.0)
 
 ## Purpose
 To provide the SNAP Council with a stable method for classifying undesirable or emergent behaviors as arising from either:
@@ -99,10 +99,10 @@ Therefore:
 ## Council Usage
 
 This rule is mandatory for:
-- Feedback ingestion (SCL-1.4)
-- Case metabolization (SCL-1.4.1+)
-- Upgrade integration (SCL-1.3)
-- Preventive boundary design (SCL-1.5)
+- Feedback ingestion (OL-1.4)
+- Case metabolization (OL-1.4.1+)
+- Upgrade integration (OL-1.3)
+- Preventive boundary design (OL-1.5)
 
 No corrective action may be finalized without explicit classification under this rule.
 
