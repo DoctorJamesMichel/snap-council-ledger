@@ -1,8 +1,8 @@
-# SCL-1.4 — Feedback Ingestion Protocol (v1.0)
+# OL-1.4 — Feedback Ingestion Protocol (v1.0)
 
-**Layer:** SCL-1 — Council Operating Layer  
+**Layer:** Council Operating Layer  
 **Domain:** Metabolization  
-**Status:** Install-ready  
+**Status:** Active  
 **Version:** v1.0  
 
 ---
@@ -120,7 +120,7 @@ Actions:
 
 Storage:
 - Filed under `metabolization/cases/`
-- Assigned an `SCL-1.4.x` identifier.
+- Assigned an `OL-1.4.x` identifier.
 
 Output:
 - A reusable governance learning artifact.
@@ -150,7 +150,7 @@ Output:
 ## Relationship to Adjacent Protocols
 
 - **Feeds into:**  
-  - SCL-1.3 — Council Upgrade Metabolization Cycle
+  - OL-1.3 — Council Upgrade Metabolization Cycle
 - **Precedes:**  
   - Council-level structural amendments
 - **Does not replace:**  
