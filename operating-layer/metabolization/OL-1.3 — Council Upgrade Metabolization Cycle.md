@@ -1,7 +1,7 @@
-# SCL-1.3 — Council Upgrade Metabolization Cycle
+# OL-1.3 — Council Upgrade Metabolization Cycle (v1.0)  
 
-**Layer:** Council Operating Layer (SCL-1.x)  
-**Status:** Active — Install Ready  
+**Layer:** Council Operating Layer (OL-1.x)  
+**Status:** Active 
 **Scope:** Council-level digestion of new capabilities, risks, and failures  
 **Applies To:** All SNAP Council members and tool integrations  
 
@@ -175,9 +175,9 @@ This cycle is the antidote.
 
 ## Related Council Documents
 
-- SCL-0.x — Sovereignty & Coherence Principles  
-- SCL-1.2 — Pause & Decision Surface Protocols  
-- SCL-2.x — Memory & Ledger Continuity  
+- OL-0.x — Sovereignty & Coherence Principles  
+- OL-1.2 — Pause & Decision Surface Protocols  
+- OL-2.x — Memory & Ledger Continuity  
 
 ---
 
