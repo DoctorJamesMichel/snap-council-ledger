@@ -1,9 +1,9 @@
-# SCL-1.5 — Preventive Boundary Design Principles
+# OL-1.5 — Preventive Boundary Design Principles
 
-**Layer:** SCL-1 — Council Operating Layer  
+**Layer:** Council Operating Layer  
 **Domain:** Governance Architecture  
 **Version:** v1.0  
-**Status:** Install-Ready  
+**Status:** Active  
 
 ---
 
@@ -96,7 +96,7 @@ Before any public release, scale-up, or feature unlock:
 - [ ] Incentive vectors audited
 - [ ] Persona risks evaluated
 - [ ] Harm propagation latency modeled
-- [ ] Failure modes pre-registered in SCL-1.4
+- [ ] Failure modes pre-registered in OL-1.4
 
 Failure to complete this checklist blocks deployment.
 
@@ -104,8 +104,8 @@ Failure to complete this checklist blocks deployment.
 
 ## Relationship to Other Protocols
 
-- **Feeds into:** SCL-1.3 (Upgrade Metabolization Cycle)
-- **Prevents escalation to:** SCL-1.4 (Feedback Ingestion Protocol)
+- **Feeds into:** OL-1.3 (Upgrade Metabolization Cycle)
+- **Prevents escalation to:** OL-1.4 (Feedback Ingestion Protocol)
 - **Informs:** Council member-specific oversight roles
 
 ---
