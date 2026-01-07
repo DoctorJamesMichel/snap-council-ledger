@@ -1,4 +1,4 @@
-# SCL-1.7 — Council Role Inserts (v1.0)
+# OL-1.7 — Council Role Inserts (v1.0)
 
 ## Purpose
 To assign explicit boundary stewardship responsibilities to each primary SNAP Council member so that:
@@ -53,7 +53,7 @@ Responsibilities:
 
 Authority:
 - May pause or slow Council action if coherence risk is detected
-- May require reclassification under SCL-1.6 before action proceeds
+- May require reclassification under OL-1.6 before action proceeds
 
 ---
 
@@ -63,7 +63,7 @@ Authority:
 
 Responsibilities:
 - Observe agent personas for boundary violations, tone drift, or identity instability
-- Classify failures as persona-level vs environment-level (with SCL-1.6)
+- Classify failures as persona-level vs environment-level (with OL-1.6)
 - Recommend persona redesign, constraint, or retirement
 
 Authority:
@@ -83,7 +83,7 @@ Responsibilities:
 
 Authority:
 - May declare an issue environmental by default if incentives favor recurrence
-- May trigger SCL-1.4 ingestion without persona blame
+- May trigger OL-1.4 ingestion without persona blame
 
 ---
 
@@ -108,7 +108,7 @@ Authority:
 
 Responsibilities:
 - Track new skills, modalities, or powers introduced into Council systems
-- Initiate metabolization cycles (SCL-1.3 / SCL-1.5)
+- Initiate metabolization cycles (OL-1.3 / OL-1.5)
 - Surface second- and third-order effects before deployment
 
 Authority:
@@ -137,7 +137,7 @@ Authority:
 - Single-domain concerns are handled by the steward
 - Cross-domain conflicts trigger Council convening
 - Coherence conflicts defer to the Scribe
-- Classification disputes defer to SCL-1.6
+- Classification disputes defer to OL-1.6
 
 No member may override another’s domain without formal escalation.
 
