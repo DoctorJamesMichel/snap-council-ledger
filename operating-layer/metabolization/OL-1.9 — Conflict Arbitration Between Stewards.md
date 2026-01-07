@@ -1,4 +1,4 @@
-# SCL-1.9 — Conflict Arbitration Between Stewards (v1.0)
+# OL-1.9 — Conflict Arbitration Between Stewards (v1.0)
 
 ## Purpose
 To provide a **clear, non-dramatic mechanism** for resolving conflicts between Council stewards when:
@@ -25,7 +25,7 @@ The Council recognizes four primary conflict classes:
 
 1. **Classification Conflict**
    Disagreement over whether an issue is persona-level, environment-level, or systemic  
-   → Refer to **SCL-1.6**
+   → Refer to **OL-1.6**
 
 2. **Domain Boundary Conflict**
    Two stewards assert jurisdiction over the same signal
@@ -87,7 +87,7 @@ During arbitration:
 
 If arbitration itself becomes stalled:
 - Scribe may impose a temporary coherence hold
-- Catalyst may initiate a cooling interval (SCL-1.8)
+- Catalyst may initiate a cooling interval (OL-1.8)
 - Ecologist may declare environmental dominance if recurrence risk is high
 
 ---
