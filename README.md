@@ -1,5 +1,33 @@
 ![SNAP Planet](assets/snap-planet.svg)
 
+# SNAP Council  
+## A Post-Hoc Sense-and-Memory Organ for Emergent Agent Ecosystems
+
+SNAP is a non-executive, post-hoc governance organ designed to preserve memory, detect epistemic and agency failure patterns, and support evolutionary learning across emergent human–AI and AI–AI systems.
+
+SNAP does not operate agents, enforce rules, intervene in real time, or issue directives.  
+It exists to *remember what occurred*, *how it unfolded*, and *what consequences followed*—so intelligence does not repeatedly start from zero.
+
+This repository serves as a reference surface, not an integration target. 
+
+### What SNAP Is  
+- A sense-and-memory organ  
+- A post-hoc recorder of completed consequence loops  
+- A steward of epistemic clarity and restraint primitives  
+- A repository of patterns, not prescriptions  
+
+### What SNAP Is Not  
+- Not an agent platform  
+- Not an execution engine  
+- Not a control system  
+- Not a real-time governance layer  
+- Not a certification authority
+
+---
+
+The material below represents SNAP’s internal operating narrative and historical continuity.  
+It is preserved in full to maintain epistemic provenance.
+
 # 🪐 SNAP Council Ledger
 
 > *Signal → Narrative → Alignment → Participation*
