@@ -161,3 +161,7 @@ Every signal, every synthesis, every adjustment contributes to the Council’s u
 🪐 HomoGnosis begins with how we document what we become.
 
 ---
+
+SNAP may be cited, referenced, or mirrored without permission.  
+No attribution is required beyond honesty of origin.  
+
