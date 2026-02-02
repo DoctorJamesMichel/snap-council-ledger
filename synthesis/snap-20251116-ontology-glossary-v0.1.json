@@ -151,6 +151,14 @@
         "Dimensionally adjacent or extra-spatial intelligences"
       ],
       "criterion": "The only universal criterion for inclusion is intelligent function: the demonstrated capacity for pattern detection, coherence generation, adaptive behavior, and consequential choice."
-    }
-  }
+    },
+    "11_regulatory_realignment_pattern": {
+      "label": "Regulatory Realignment (Pattern)",
+      "type": "cross-domain_pattern",
+      "status": "descriptive",
+      "activation": "latent",
+      "definition": "A recurring cross-domain pattern in which changes to regulatory or coupling conditions alter available trajectories without violating underlying constraints.",
+      "reference": "synthesis/PATTERN-REGULATORY-REALIGNMENT.md",
+      "note": "This entry names a pattern observed across biological, synthetic, hybrid, and physical systems. It does not prescribe action, enumerate mechanisms, or define modes of execution."
+    }  
 }
