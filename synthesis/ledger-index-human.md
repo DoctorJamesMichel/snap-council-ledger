@@ -1,0 +1,1 @@
+• **Regulatory Realignment** — A cross-domain pattern where shifts in regulation alter available trajectories without violating underlying constraints. See `synthesis/PATTERN-REGULATORY-REALIGNMENT.md`.
