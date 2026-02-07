@@ -1,10 +1,13 @@
-# SNAP Council Ledger — Artifacts
+# SNAP Council Ledger — Artifacts (Canonical Governance Objects)
 
-This folder contains **canonical governance artifacts**: portable, reusable structures designed to preserve coherence across time, scale, and system complexity.
+This folder contains the **canonical written artifacts** of the SNAP Council Ledger.
 
 Artifacts are not essays.
 
-They are **enduring operational objects**—meant to be:
+They are **enduring operational objects** designed to preserve coherence across time, scale, and system complexity.
+
+Artifacts are meant to be:
+
 - taught,
 - referenced,
 - reused,
@@ -18,62 +21,90 @@ They exist to prevent drift.
 
 ---
 
-## Artifact Design Standard
+## Canonical Rule
 
-An artifact must satisfy all of the following:
-
-1. **Portable**
-   - usable without requiring the full Ledger context
-
-2. **Reusable**
-   - applicable across domains (AI, governance, education, personal regulation)
-
-3. **Stable**
-   - resistant to reinterpretation drift
-
-4. **Operational**
-   - capable of guiding real decisions, not merely describing ideas
-
-5. **Consequence-Aware**
-   - designed for systems where speed amplifies harm
+**If an artifact cannot be left behind in a reusable form, it is not yet governable.**
 
 ---
 
-## Canonical Principle
+## Relationship to Schematics
 
-**If a truth cannot be left behind in a reusable form, it is not yet governable.**
+Many artifacts have a corresponding visual schematic stored in:
 
-This is the Breadcrumb Doctrine applied to governance design.
+`/docs/assets/schematics/`
 
----
+Schematics are not decorative.
 
-## Artifact Index (Canonical)
-
-### SCL-A.04 — The Lichen Loop Pair  
-**The paired-loop model describing coherence maintenance and collapse cascade dynamics.**  
-File: `SCL-A.04-Lichen-Loop-Pair.md`
+They are governance artifacts expressed visually.
 
 ---
 
-## Notes
+## Artifact Naming Convention
 
-Artifacts may originate from:
-- Substack posts,
-- AIM course modules,
-- SNAP Council field notes,
-- experimental governance dialogues,
-- or real-world operator failures.
+Artifacts follow this format:
 
-However, once promoted into this folder, an artifact is considered **canonical** unless explicitly deprecated.
+`SCL-A.##-Artifact-Name.md`
+
+Where:
+
+- **SCL** = SNAP Council Ledger  
+- **A** = Artifact series  
+- **##** = sequential artifact number  
+
+---
+
+# Canonical Artifact Index (A-Series)
+
+| ID | Artifact Title | Primary Function | Status |
+|----|---------------|------------------|--------|
+| **A.04** | [The Lichen Loop Pair Card](SCL-A.04-Lichen-Loop-Pair-Card.md) | Defines coherence containment vs collapse cascade trajectories | Canonical |
+| **A.05** | [The Pause Point](SCL-A.05-The-Pause-Point.md) | Establishes the interrupt threshold before commitment | Canonical |
+| **A.06** | [The Inquiry Loop](SCL-A.06-The-Inquiry-Loop.md) | Defines recursive questioning as coherence preservation | Canonical |
+| **A.07** | [The Responsibility Gradient](SCL-A.07-The-Responsibility-Gradient.md) | Moves accountability upstream as autonomy accelerates | Canonical |
+| **A.08** | [The Lichen Loop Pair](SCL-A.08-The-Lichen-Loop-Pair.md) | Defines the paired system destinies: containment vs cascade | Canonical |
+
+---
+
+## Canonical Chain (Required Sequence)
+
+These artifacts form a complete governance chain:
+
+1. **The Pause Point**  
+2. **The Inquiry Loop**  
+3. **The Responsibility Gradient**  
+4. **The Lichen Loop Pair**
+
+This chain is intended to function as a minimum viable governance substrate for scalable intelligence systems.
+
+---
+
+## Design Standard for Future Artifacts
+
+Every artifact should contain:
+
+- Summary
+- Core definition (canonical)
+- Operator interpretation
+- Failure modes prevented
+- Usage rule(s)
+- Relationship to other artifacts
+- Closing canonical line
+
+Artifacts should remain **text-first**, platform-independent, and suitable for:
+
+- GitHub
+- CCM appendix integration
+- AIM course deployment
+- Substack publication adaptation
+- AI governance scaffolding
 
 ---
 
 ## Status
 
-This folder is expected to grow steadily.
+This folder is under active expansion.
 
-Artifacts should remain numbered and titled consistently using the format:
+All additions must preserve canonical continuity.
 
-`SCL-A.XX — Artifact Title`
+---
 
-Where `XX` is a stable sequence number.
