@@ -56,7 +56,9 @@ This composite schematic contains two internal schematics:
 
 ---
 
-## Direct Image Links (Agent-Friendly)
+## Direct Image Links (Agent-Friendly)  
+
+> Canonical Source: These links are the authoritative distribution endpoints for SNAP schematics.
 
 Use these direct links when you need the image itself (hotlink-safe, copy/paste ready):
 
