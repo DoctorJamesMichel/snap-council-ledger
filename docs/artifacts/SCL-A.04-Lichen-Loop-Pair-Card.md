@@ -1,11 +1,11 @@
-# SCL-A.04 — The Lichen Loop Pair  
+# SCL-A.04 — The Lichen Loop Pair Card  
 **Canonical Governance Artifact (AIM-EDUC · AIM-COMM · AIM-GOVC)**
 
 ## Status
 **Canonical · Stable · Reusable**
 
 ## Purpose
-The Lichen Loop Pair encodes the minimum visual + conceptual infrastructure required to govern autonomous intelligence systems at scale.
+The Lichen Loop Pair Card encodes the minimum visual + conceptual infrastructure required to govern autonomous intelligence systems at scale.
 
 It is designed to be referenced without re-derivation.
 
@@ -17,20 +17,20 @@ This artifact exists to prevent a predictable failure mode:
 
 ## Components (Locked)
 
-### Schematic IV — The Responsibility Gradient  
+### Schematic Part A — The Coherence Containment Loop 
 **Why accountability must move upstream as autonomy increases.**
 
-### Schematic V — The Collapse Cascade  
+### Schematic Part B — The Collapse Cascade  
 **What happens when one node fails and error propagates through a network.**
 
 These two schematics form a paired governance unit:
 
-**The Lichen Loop Pair.**
+**The Lichen Loop Pair Card.**
 
 ---
 
 ## Canonical Definition (One Line)
-**The Lichen Loop Pair describes how intelligence remains governable: responsibility must move upstream as autonomy accelerates, or collapse will propagate as cascade.**
+**The Lichen Loop Pair Card describes how intelligence remains governable: responsibility must move upstream as autonomy accelerates, or collapse will propagate as cascade.**
 
 ---
 
@@ -100,3 +100,7 @@ then governance must exist *before the moment of action.*
 This artifact is intentionally named, portable, and reusable.
 
 **It is designed to survive without explanation.**
+
+---
+
+
