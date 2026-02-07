@@ -56,6 +56,24 @@ This composite schematic contains two internal schematics:
 
 ---
 
+## Direct Image Links (Agent-Friendly)
+
+Use these direct links when you need the image itself (hotlink-safe, copy/paste ready):
+
+- SCHEMATIC I — The Pause Point  
+  https://raw.githubusercontent.com/DoctorJamesMichel/snap-council-ledger/main/docs/assets/schematics/SCHEMATIC-I-The-Pause-Point.png
+
+- SCHEMATIC II — The Inquiry Loop  
+  https://raw.githubusercontent.com/DoctorJamesMichel/snap-council-ledger/main/docs/assets/schematics/SCHEMATIC-II-The-Inquiry-Loop.png
+
+- SCHEMATIC III — The Responsibility Gradient  
+  https://raw.githubusercontent.com/DoctorJamesMichel/snap-council-ledger/main/docs/assets/schematics/SCHEMATIC-III-The-Responsibility-Gradient.png
+
+- SCHEMATIC IV — The Lichen Loop Pair (Composite: Coherence Containment Loop + Collapse Cascade)  
+  https://raw.githubusercontent.com/DoctorJamesMichel/snap-council-ledger/main/docs/assets/schematics/SCHEMATIC-IV-The-Lichen-Loop-Pair.png
+
+---
+
 ## Naming Convention
 
 All canonical schematics follow this filename format:
