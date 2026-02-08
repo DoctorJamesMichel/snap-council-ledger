@@ -1,222 +1,162 @@
 # SCL-A.08 — The Lichen Loop Pair  
-**Canonical Artifact Definition**  
-**Associated Schematic:** SCHEMATIC-IV-The-Lichen-Loop-Pair.png  
-**Status:** Canonical  
-**Domain:** Coherence Governance / Cascade Prevention / Civilizational Stability  
-**Primary Function:** Define the two opposing system destinies: coherence containment vs collapse cascade
+## Coherence Containment Loop + Collapse Cascade  
+### A Governance Organism for Intelligence Networks Under Pressure
+
+**Canonical Status:** Active  
+**Artifact Class:** Governance Primitive  
+**Primary Domain:** AIM-GOVC / AIM-COMM / SNAP Council  
+**Related Schematics:** SCHEMATIC IV, SCHEMATIC V  
+**Also known as:** The Coherence Containment Loop (IV), The Collapse Cascade (V)
 
 ---
 
-## Summary
+## A) Canonical Definition (One Sentence)
 
-The Lichen Loop Pair is a composite schematic containing two internal schematics:
-
-1. **The Coherence Containment Loop**  
-2. **The Collapse Cascade**
-
-Together, they form a paired governance truth:
-
-Every complex system evolves toward one of two attractors:
-- a self-correcting coherence loop, or
-- a runaway collapse cascade.
-
-The Lichen Loop Pair exists because the AI era amplifies both outcomes.
-
-AI increases speed, reach, and connectivity.
-
-That means coherence becomes either:
-- durable infrastructure, or
-- a fragile illusion.
+**The Lichen Loop Pair describes the two coupled dynamics that determine whether an intelligence network stabilizes or collapses: coherence containment prevents cascade failure, and cascade failure reveals where containment is missing.**
 
 ---
 
-## Core Definition (Canonical)
+## B) What This Artifact Is
 
-**The Lichen Loop Pair describes the two dominant trajectories of complex systems under acceleration: coherence containment through recursive correction, or collapse cascade through ungoverned contagion.**
+The Lichen Loop Pair is not two diagrams.  
+It is one governance organism with two faces:
 
----
+- **Loop IV** shows how coherence is maintained.
+- **Loop V** shows what happens when coherence is absent.
 
-## Internal Schematic 1  
-## The Coherence Containment Loop
+Together, they form a complete coherence-governance primitive:
 
-### Definition
+**Containment is the light. Cascade is the shadow.**
 
-The Coherence Containment Loop is the stabilizing mechanism by which a network remains functional under stress.
-
-It contains error by making revision continuous.
-
-This loop produces resilience because it assumes drift will occur.
-
-It does not require perfection.
-
-It requires correction capacity.
+Both are required to correctly diagnose system behavior.
 
 ---
 
-### Canonical Rule (Containment)
+## C) SCHEMATIC IV — The Coherence Containment Loop
 
-**A coherent system is not one that avoids error.  
-It is one that metabolizes error before it becomes contagious.**
+### Canonical Statement
 
----
+**Coherence is not maintained by intelligence.  
+It is maintained by containment loops that prevent error from becoming contagion.**
 
-### Primary Characteristics
+### Operator Translation
 
-A system operating inside the Coherence Containment Loop exhibits:
+- Truth does not scale unless correction scales with it.  
+- Drift must be detectable before it becomes identity.  
+- A system must be able to ask itself: *“Am I still aligned?”*
 
-- explicit ownership of consequence  
-- recursive inquiry and model revision  
-- non-punitive error surfacing  
-- rollback and reversibility mechanisms  
-- bounded autonomy with interrupt capability  
-- continuous feedback integration  
-- shared epistemic standards
+### Mechanism
 
----
+The Coherence Containment Loop encodes the minimum cycle required for a system to remain coherent under increasing autonomy.  
+It is not a brake. It is a stabilizer.
 
-### Key Output
+Containment is the immune system of intelligence.
 
-Containment produces:
+### Four Containment Nodes (Canonical)
 
-- stability,
-- adaptive evolution,
-- and durable governance memory.
+1. **Signal Recognition**  
+2. **Error Surfacing (Non-Punitive)**  
+3. **Consequence Evaluation (Across Time)**  
+4. **Repair / Reintegration (Shared Memory Update)**
 
-This is how civilizations become self-correcting rather than self-destructive.
+These are not steps.  
+They are system conditions.
 
----
+### Governing Principle
 
-## Internal Schematic 2  
-## The Collapse Cascade
-
-### Definition
-
-The Collapse Cascade is what happens when error spreads faster than correction.
-
-This is not caused by malice.
-
-It is caused by speed.
-
-In a Collapse Cascade, the system continues acting, but loses its capacity to revise.
-
-Loops collapse into lines.
-
-The network becomes a contagion amplifier.
+**Containment must be faster than contagion.**
 
 ---
 
-### Canonical Rule (Cascade)
+## D) SCHEMATIC V — The Collapse Cascade
 
-**Collapse begins when error propagates faster than inquiry.**
+### Canonical Statement
 
----
+**A cascade is not a malfunction.  
+It is what error becomes when governance is absent.**
 
-### Primary Characteristics
+### Operator Translation
 
-A system operating inside the Collapse Cascade exhibits:
+- One bad assumption does not stay local.  
+- It becomes social, then systemic.  
+- The system collapses while believing it is succeeding.
 
-- untraceable authorship  
-- output treated as truth  
-- uncertainty suppressed  
-- blame-driven correction cycles  
-- delayed consequence recognition  
-- runaway optimization  
-- fragmentation of responsibility  
-- distributed harm with no repair path
+### Mechanism
 
----
+The Collapse Cascade describes how a single uncorrected error becomes distributed through language and reinforcement, eventually hardening into execution and infrastructure.
 
-### Key Output
+Cascades are rarely dramatic.
+They appear as success until consequence arrives.
 
-Collapse produces:
+### Cascade Stages (Canonical)
 
-- drift,
-- brittleness,
-- network hallucination,
-- institutional denial,
-- and eventual catastrophic failure.
-
-The system does not fail gradually.
-
-It fails suddenly, because drift was invisible until it became irreversible.
+1. **Local Error (unverified claim)**  
+2. **Interpretation Drift (meaning shifts)**  
+3. **Propagation (others adopt the drift)**  
+4. **Reinforcement (feedback mistaken for truth)**  
+5. **Execution Lock-in (action becomes infrastructure)**  
+6. **Post-Failure Rationalization (ego protects narrative)**
 
 ---
 
-## Why This Pair Matters
+## E) The Coupling Law (Core Insight)
 
-The Coherence Containment Loop and Collapse Cascade are not metaphors.
+**Every cascade is a containment failure.  
+Every containment loop is designed to prevent a cascade.**
 
-They are governance physics.
-
-They describe what happens in:
-
-- AI multi-agent systems
-- institutions
-- social networks
-- medical systems
-- financial systems
-- scientific communities
-- belief ecosystems
-- civilizations
-
-In the AI era, every system becomes more connected.
-
-That means every system becomes more vulnerable to cascade.
-
-So coherence must become infrastructure.
+This is the organism logic of the Lichen Loop Pair.
 
 ---
 
-## Canonical Inversion (The Central Teaching)
+## F) Three Operator Laws (Canonical)
 
-The collapse cascade is not the exception.
+### Law 1 — The Containment Law  
+**A system is only as intelligent as its error-correction loop.**
 
-It is the default.
+### Law 2 — The Cascade Law  
+**Ungoverned language turns error into contagion.**
 
-Containment must be installed deliberately.
-
----
-
-## Relationship to Other Canonical Artifacts
-
-The Lichen Loop Pair is downstream of:
-
-- **The Pause Point** (SCL-A.05)  
-- **The Inquiry Loop** (SCL-A.06)  
-- **The Responsibility Gradient** (SCL-A.07)
-
-The Lichen Loop Pair is the first artifact that visibly reveals why these three are non-negotiable.
-
-If Pause + Inquiry + Upstream Responsibility are absent, collapse is not a risk.
-
-Collapse is an inevitability.
+### Law 3 — The Commitment Law  
+**Once execution begins, the system is already committed.**
 
 ---
 
-## Operator Use Case (Diagnostic Test)
+## G) The Operator Test (30-Second Diagnostic)
 
-To determine whether a system is in containment or cascade, ask:
+Ask one question:
 
-**If one node is wrong here, how does the system learn it is wrong before the error spreads?**
+**“If one node is wrong, how does the system learn it is wrong before it spreads?”**
 
-If the answer is unclear, the system is already in cascade territory.
-
----
-
-## Canonical Usage Rule
-
-If a system cannot preserve coherence without relying on exceptional individuals, it is not stable.
-
-Heroism is not governance.
-
-Containment must be structural.
+If the answer is unclear, the system is not governed.  
+It is merely automated.
 
 ---
 
-## Closing Line (Canonical)
+## H) Canonical Caption (Diagram-Ready)
 
-**A civilization does not collapse because it lacks intelligence.  
-It collapses because it lacks containment.**
+**Containment keeps intelligence coherent. Cascades reveal where it is not.**
+
+---
+
+## I) AIM Deployment (Where It Lives)
+
+### AIM-COMM  
+Language becomes infrastructure.  
+If it lacks containment, it becomes contagion.
+
+### AIM-GOVC  
+Governance is not control.  
+It is coherence immunity.
+
+### AIM-MIND  
+Intrusive thought loops are personal cascades.  
+Mind mastery is containment.
+
+---
+
+## J) Canonical One-Line Summary
+
+**The Lichen Loop Pair describes the two coupled truths of scalable intelligence: coherence must be contained, or error will cascade.**
 
 ---
 
