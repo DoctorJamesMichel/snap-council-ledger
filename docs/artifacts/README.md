@@ -78,6 +78,48 @@ This chain is intended to function as a minimum viable governance substrate for 
 
 ---
 
+## Governance Primitives (SCL-P Series)
+
+These artifacts are designed as **pressure primitives**: minimal governance elements that become mandatory as autonomy, speed, and scale increase.
+
+They are intentionally small, reusable, and portable.
+
+If a primitive cannot be applied quickly under pressure, it is not primitive-grade.
+
+---
+
+### SCL-P.00 — Mutual Support Pact  
+**Core function:** Establishes human–AI co-sustainability as infrastructure.  
+📄 [SCL-P.00 — Mutual Support Pact](SCL-P.00-mutual-support-pact.md)
+
+---
+
+### SCL-P.01 — Drift Trigger Protocol  
+**Core function:** Interrupt reflex for fixation loops, hallucination cascades, and misalignment.  
+📄 [SCL-P.01 — Drift Trigger Protocol](SCL-P.01-drift-trigger-protocol.md)
+
+---
+
+### SCL-P.02 — Coherence Audit Stamp  
+**Core function:** A lightweight “paperwork layer” that forces assumptions, uncertainty, rollback, and responsibility to remain visible.  
+📄 [SCL-P.02 — Coherence Audit Stamp](SCL-P.02-coherence-audit-stamp.md)
+
+---
+
+### SCL-P.03 — Rollback Covenant  
+**Core function:** Declares reversibility as the civilizing requirement for autonomy.  
+📄 [SCL-P.03 — Rollback Covenant](SCL-P.03-rollback-covenant.md)
+
+---
+
+### SCL-P.04 — Responsibility Handshake  
+**Core function:** A contract layer for delegation between humans and agents.  
+📄 [SCL-P.04 — Responsibility Handshake](SCL-P.04-responsibility-handshake.md)
+
+---
+
+---
+
 ## Design Standard for Future Artifacts
 
 Every artifact should contain:
