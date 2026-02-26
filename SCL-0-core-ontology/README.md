@@ -58,9 +58,10 @@ Ontology must move slower than mechanism.
 
 ## IV. Current Ontology Artifacts
 
+- **SCL-0.1 — Sovereignty**
 - **SCL-0.3 — Sustainability Quotient (SQ)**
 
-Additional core primitives may be added only when necessary to preserve structural clarity across layers.
+Additional core primitives may be added only when necessary to preserve structural clarity across layers.  
 
 ---
 
